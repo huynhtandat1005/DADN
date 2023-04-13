@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import {
   View,
   Text,
@@ -11,11 +11,14 @@ import {
   Keyboard,
   TouchableWithoutFeedback,
 } from 'react-native';
+import axios from 'axios';
 
 import Icon from 'react-native-vector-icons/FontAwesome5';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Switch } from 'react-native-gesture-handler';
+
+
 
 // START SCREEN
 const Start = props => {
@@ -171,7 +174,23 @@ const Control = props => {
 
 // DATA SCREEN
 const Data = props => {
+  let TEMPERATURE = 32;
+  let HUMIDITY = 80;
+  const [temp, setTemp] = useState()
+  const [light, setLight] = useState()
+  const [humid, setHumid] = useState()
 
+  useEffect(() => {
+    const intervalId = setInterval(() => {  //assign interval to a variable to clear it.
+      axios.get('http://localhost:3000/api/data/temp')
+      .then(response => setTemp(JSON.stringify(response.data)));
+      axios.get('http://localhost:3000/api/data/humid')
+      .then(response => setHumid(JSON.stringify(response.data)));
+      axios.get('http://localhost:3000/api/data/light')
+      .then(response => setLight(JSON.stringify(response.data)));
+    }, 1000)
+    return () => intervalId; //This is important
+  }, [])
   return (
     <View>
       <View style={styles.header}>
@@ -185,7 +204,16 @@ const Data = props => {
           <Icon name='temperature-high'size={15}/>
           {"   "}TEMPERATURE{"\n\n"}
           <Text style={{fontWeight: 'bold'}}>
-            32°C {/* TEMPERATURE */}
+             { temp }°C
+          </Text>
+        </Text>
+      </View>
+      <View style ={styles.button}>
+        <Text style={styles.button1}>
+          <Icon name='lightbulb' size={15}/>
+          {"   "}LIGHT{"\n\n"}
+          <Text style={{fontWeight: 'bold'}}>
+             { light }%
           </Text>
         </Text>
       </View>
@@ -194,7 +222,7 @@ const Data = props => {
           <Icon name='water' size={15}/>
           {"   "}HUMIDITY{"\n\n"}
           <Text style={{fontWeight: 'bold'}}>
-            80 % {/* HUMIDITY */}
+             { humid }%
           </Text>
         </Text>
       </View>
