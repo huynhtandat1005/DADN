@@ -1,7 +1,10 @@
 const mongoose = require('mongoose')
 const express = require("express");
+var expressWs = require('express-ws')
+
 const port = 3000;
 const app = express();
+expressWs(app)
 const cors = require('cors');
 app.use(cors());
 
@@ -20,10 +23,8 @@ mongoose.connect('mongodb://127.0.0.1:27017/IoT', {
 const Schema = mongoose.Schema
 
 const Data = new Schema({
-    sensor: { type: String, required: true },
-    value: { type: Number, require: true }
-}, {
-    timestamps: true,
+    Sensor: { type: String, required: true },
+    Value: { type: Number, require: true }
 }
 )
 
@@ -31,46 +32,43 @@ const Data = new Schema({
 const DataValue = mongoose.model('sensor', Data);
 
 
-// const saveData = new DataValue({sensor: "Test1", value: 40});
-let lastestValue;
-function updateValue() {
-    DataValue.find({ Sensor: 'Temperature' }).sort({ Timestamp: -1 }).limit(1).lean().then(
-        data => {
-            app.get('/api/data/temp', (req, res) => {
-                res.json(data[0].Value);
-            });
-            console.log(data[0].Value);
-        })
-    DataValue.find({ Sensor: 'Light' }).sort({ Timestamp: -1 }).limit(1).lean().then(
-        data => {
-            app.get('/api/data/light', (req, res) => {
-                res.json(data[0].Value);
-            });
-            console.log(data[0].Value);
-        })
-    DataValue.find({ Sensor: 'Humidity' }).sort({ Timestamp: -1 }).limit(1).lean().then(
-        data => {
-            app.delete('/api/data/humid', function (req, res) {
-                res.send('DELETE request to homepage')
-            })
-            app.get('/api/data/humid', (req, res) => {
-                
-                res.json(data[0].Value);
-                res.get()
-            });
-            console.log("Humidity: " ,data[0].Value);
-        })
-    
-}
-setInterval(updateValue,5000)
+
+app.use(function (req, res, next) {
+  
+    return next();
+});
+app.get('/', function(req, res, next){
+    res.end();
+  });
+
+app.ws('/ws', (ws, req) => {
+    console.log('WebSocket connection established');
+    const sensorData = {
+        humid: 0,
+        temp: 0,
+        light: 0
+    }
+    // Send a message to the client every second
+    const intervalId = setInterval(() => {
+        DataValue.find({ Sensor: 'Humidity' }).sort({Timestamp: -1}).limit(1).lean()
+            .then(data => sensorData.humid = data[0].Value);
+        DataValue.find({ Sensor: 'Temperature' }).sort({Timestamp: -1}).limit(1).lean()
+            .then(data => sensorData.temp = data[0].Value);
+        DataValue.find({ Sensor: 'Light' }).sort({Timestamp: -1}).limit(1).lean()
+            .then(data => sensorData.light = data[0].Value);
+        ws.send(JSON.stringify(sensorData))
+    }, 3000);
+
+    ws.on('close', () => {
+    console.log('WebSocket connection closed');
+    clearInterval(intervalId);
+    });
+});
+
+
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
-
-
-
-
-
 
 

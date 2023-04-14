@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import {
+  Button,
   View,
   Text,
   Image,
@@ -18,6 +19,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Switch } from 'react-native-gesture-handler';
 
+// const WebSocket = require('ws')
+const socket = new WebSocket('ws://localhost:3000/ws');
 
 
 // START SCREEN
@@ -120,7 +123,8 @@ const HomeScreen = props => {
     </View>
   );
 };
-
+const ID_USERNAME = 'huyn02';
+const IO_KEY = 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot';
 // CONTROL SCREEN
 const Control = props => {
   const [fan, setFAN] = useState(false)
@@ -131,7 +135,48 @@ const Control = props => {
   const toggleLIGHT = (value) => {
     setLIGHT(value)
   }
-
+  const sendSignalLight1 = async (light1) => {
+    try {
+      let lightsignal = 0;
+      if (light1 === true) {
+        lightsignal = 1
+      }
+      else lightsignal = 0
+      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button1/data', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-AIO-Key': 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot'
+        },
+        body: JSON.stringify({ value: lightsignal  })
+      })
+      const data = await response.json()
+      console.log(data)
+    } catch (error) {
+      console.log(error)
+    }
+  }
+  const sendSignalFan = async (fan) => {
+    try {
+      let fansignal = 0;
+      if (fan === true) {
+        fansignal = 1
+      }
+      else fansignal = 0
+      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button3/data', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-AIO-Key': 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot'
+        },
+        body: JSON.stringify({ value: fansignal  })
+      })
+      const data = await response.json()
+      console.log(data)
+    } catch (error) {
+      console.log(error)
+    }
+  }
   return (
     <View>
       <View style={styles.header}>
@@ -147,10 +192,13 @@ const Control = props => {
             </Text>
           <Text style={styles.on_off}>{fan ? 'ON':'OFF'}</Text>
           {/*BUTTON TO TURN ON/OFF FAN */}
+          {/* <Button title="Send Signal" onPress={sendSignalLight} /> */}
           <Switch 
             style={{ marginTop: 50, marginLeft: 100}}
             onValueChange={toggleFAN}
-            value={fan}/>
+            value={fan}
+            onGestureEvent={sendSignalFan(fan)}
+            />
         </View>
       </View>
 
@@ -164,7 +212,8 @@ const Control = props => {
           <Switch
             style={{marginTop: 50, marginLeft: 100}}
             onValueChange={toggleLIGHT}
-            value={light}/>
+            value={light}
+            onGestureEvent={sendSignalLight1(light)}/>
         </View>
       </View>
       </View>
@@ -176,20 +225,20 @@ const Control = props => {
 const Data = props => {
   let TEMPERATURE = 32;
   let HUMIDITY = 80;
-  const [temp, setTemp] = useState()
-  const [light, setLight] = useState()
-  const [humid, setHumid] = useState()
-
+  const [temp, setTemp] = useState(0)
+  const [light, setLight] = useState(0)
+  const [humid, setHumid] = useState(0)
   useEffect(() => {
-    const intervalId = setInterval(() => {  //assign interval to a variable to clear it.
-      axios.get('http://localhost:3000/api/data/temp')
-      .then(response => setTemp(JSON.stringify(response.data)));
-      axios.get('http://localhost:3000/api/data/humid')
-      .then(response => setHumid(JSON.stringify(response.data)));
-      axios.get('http://localhost:3000/api/data/light')
-      .then(response => setLight(JSON.stringify(response.data)));
-    }, 1000)
-    return () => intervalId; //This is important
+
+    
+    socket.onmessage = (message) => {
+      const data = JSON.parse(message.data)
+      setTemp(data.temp)
+      setHumid(data.humid)
+      setLight(data.light)
+      
+    }
+    // return () => intervalId; //This is important???
   }, [])
   return (
     <View>
