@@ -17,7 +17,9 @@ import Icon from 'react-native-vector-icons/FontAwesome5';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Switch } from 'react-native-gesture-handler';
+// const WebSocket = require('ws')
 
+const socket = new WebSocket('ws://localhost:3000/ws');
 
 
 // START SCREEN
@@ -176,20 +178,21 @@ const Control = props => {
 const Data = props => {
   let TEMPERATURE = 32;
   let HUMIDITY = 80;
-  const [temp, setTemp] = useState()
-  const [light, setLight] = useState()
-  const [humid, setHumid] = useState()
+  const [temp, setTemp] = useState(0)
+  const [light, setLight] = useState(0)
+  const [humid, setHumid] = useState(0)
 
   useEffect(() => {
-    const intervalId = setInterval(() => {  //assign interval to a variable to clear it.
-      axios.get('http://localhost:3000/api/data/temp')
-      .then(response => setTemp(JSON.stringify(response.data)));
-      axios.get('http://localhost:3000/api/data/humid')
-      .then(response => setHumid(JSON.stringify(response.data)));
-      axios.get('http://localhost:3000/api/data/light')
-      .then(response => setLight(JSON.stringify(response.data)));
-    }, 1000)
-    return () => intervalId; //This is important
+
+    
+    socket.onmessage = (message) => {
+      const data = JSON.parse(message.data)
+      setTemp(data.temp)
+      setHumid(data.humid)
+      setLight(data.light)
+      
+    }
+    // return () => intervalId; //This is important???
   }, [])
   return (
     <View>
