@@ -32,6 +32,14 @@ const Data = new Schema({
 const DataValue = mongoose.model('sensor', Data);
 
 
+// const createNewDate = new DataValue({
+//     sensor: "Humidity",
+//     value: 35,
+// })
+
+// createNewDate.save()
+
+// const saveData = new DataValue({sensor: "Test1", value: 40});
 
 app.use(function (req, res, next) {
   
@@ -52,10 +60,10 @@ app.ws('/ws', (ws, req) => {
     const intervalId = setInterval(() => {
         DataValue.find({ Sensor: 'Humidity' }).sort({Timestamp: -1}).limit(1).lean()
             .then(data => sensorData.humid = data[0].Value);
-        DataValue.find({ Sensor: 'Temperature' }).sort({Timestamp: -1}).limit(1).lean()
-            .then(data => sensorData.temp = data[0].Value);
+        DataValue.find({ Sensor: 'Tempurature' }).sort({Timestamp: -1}).limit(1).lean()
+            .then(data =>data => sensorData.temp = data[0].Value);
         DataValue.find({ Sensor: 'Light' }).sort({Timestamp: -1}).limit(1).lean()
-            .then(data => sensorData.light = data[0].Value);
+            .then(data =>data => sensorData.ligt = data[0].Value);
         ws.send(JSON.stringify(sensorData))
     }, 3000);
 
@@ -70,5 +78,9 @@ app.ws('/ws', (ws, req) => {
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
+
+
+
+
 
 

@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import {
-  Button,
   View,
   Text,
   Image,
@@ -18,8 +17,8 @@ import Icon from 'react-native-vector-icons/FontAwesome5';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { Switch } from 'react-native-gesture-handler';
-
 // const WebSocket = require('ws')
+
 const socket = new WebSocket('ws://localhost:3000/ws');
 
 
@@ -75,7 +74,6 @@ const Login = props => {
   );
 };
 
-
 // HOME SCREEN
 const HomeScreen = props => {
   // GO TO CONTROL SCREEN
@@ -85,6 +83,10 @@ const HomeScreen = props => {
   // GO TO DATA SCREEN
   const data = () => {
     props.navigation.navigate('Data');
+  };
+  // GO TO FACE ID
+  const faceID = () => {
+    props.navigation.navigate('Face ID');
   };
 
   return (
@@ -111,11 +113,11 @@ const HomeScreen = props => {
           {"   "}DATA
         </Text>
       </TouchableOpacity>
-      {/* ENERGY USE*/}
-      <TouchableOpacity style ={styles.button}>
+      {/* FACE ID */}
+      <TouchableOpacity style ={styles.button} onPress={faceID}>
         <Text style = {styles.button1}>
-          <Icon name='battery-full'size={15}/>
-          {"   "}ENERGY USE
+          <Icon name='camera' size={15}/>
+          {"   "}FACE ID
         </Text>
       </TouchableOpacity>
 
@@ -123,8 +125,7 @@ const HomeScreen = props => {
     </View>
   );
 };
-const ID_USERNAME = 'huyn02';
-const IO_KEY = 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot';
+
 // CONTROL SCREEN
 const Control = props => {
   const [fan, setFAN] = useState(false)
@@ -135,48 +136,7 @@ const Control = props => {
   const toggleLIGHT = (value) => {
     setLIGHT(value)
   }
-  const sendSignalLight1 = async (light1) => {
-    try {
-      let lightsignal = 0;
-      if (light1 === true) {
-        lightsignal = 1
-      }
-      else lightsignal = 0
-      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button1/data', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'X-AIO-Key': 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot'
-        },
-        body: JSON.stringify({ value: lightsignal  })
-      })
-      const data = await response.json()
-      console.log(data)
-    } catch (error) {
-      console.log(error)
-    }
-  }
-  const sendSignalFan = async (fan) => {
-    try {
-      let fansignal = 0;
-      if (fan === true) {
-        fansignal = 1
-      }
-      else fansignal = 0
-      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button3/data', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'X-AIO-Key': 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot'
-        },
-        body: JSON.stringify({ value: fansignal  })
-      })
-      const data = await response.json()
-      console.log(data)
-    } catch (error) {
-      console.log(error)
-    }
-  }
+
   return (
     <View>
       <View style={styles.header}>
@@ -185,37 +145,48 @@ const Control = props => {
         </Text>
       </View>
       <View>
-        <View style ={styles.control}>
+        {/* <View style ={styles.control}>
           <View style ={styles.button}>
             <Text style = {{fontSize: 20}}>
               <Icon name='fan' size={20}/>{"   "}SMART FAN
             </Text>
           <Text style={styles.on_off}>{fan ? 'ON':'OFF'}</Text>
-          {/*BUTTON TO TURN ON/OFF FAN */}
-          {/* <Button title="Send Signal" onPress={sendSignalLight} /> */}
+          
           <Switch 
             style={{ marginTop: 50, marginLeft: 100}}
             onValueChange={toggleFAN}
-            value={fan}
-            onGestureEvent={sendSignalFan(fan)}
-            />
+            value={fan}/>
         </View>
-      </View>
+      </View> */}
 
       <View style ={styles.control}>
         <View style ={styles.button}>
           <Text style = {{fontSize: 20}}>
-            <Icon name='lightbulb' size={20}/>{"   "}SMART LIGHT
+            <Icon name='lightbulb' size={20}/>{"   "}SMART LIGHT 1
           </Text>
           <Text style={styles.on_off}>{light ? 'ON':'OFF'}</Text>
           {/*BUTTON TO TURN ON/OFF LIGHT */}
           <Switch
             style={{marginTop: 50, marginLeft: 100}}
             onValueChange={toggleLIGHT}
-            value={light}
-            onGestureEvent={sendSignalLight1(light)}/>
+            value={light}/>
         </View>
       </View>
+
+      <View style ={styles.control}>
+        <View style ={styles.button}>
+          <Text style = {{fontSize: 20}}>
+            <Icon name='lightbulb' size={20}/>{"   "}SMART LIGHT 2
+          </Text>
+          <Text style={styles.on_off}>{light ? 'ON':'OFF'}</Text>
+          {/*BUTTON TO TURN ON/OFF LIGHT */}
+          <Switch
+            style={{marginTop: 50, marginLeft: 100}}
+            onValueChange={toggleLIGHT}
+            value={light}/>
+        </View>
+      </View>
+
       </View>
     </View>
   );
@@ -228,6 +199,7 @@ const Data = props => {
   const [temp, setTemp] = useState(0)
   const [light, setLight] = useState(0)
   const [humid, setHumid] = useState(0)
+
   useEffect(() => {
 
     
@@ -280,6 +252,41 @@ const Data = props => {
   );
 };
 
+//FACE ID SCREEN
+const FACEID = props => {
+  return (
+    <View>
+      <View style={styles.header}>
+        <Text style = {{fontSize: 24,color: 'white',fontWeight:'bold'}}>
+          FACE ID
+        </Text>
+      </View>
+      <View>
+      <View style ={styles.button}>
+        <Text style = {styles.button1}>
+          <Icon name='head-side-mask'size={15}/>
+          {"   "}CAMERA AI{"\n\n"}
+          <Text style={{fontWeight: 'bold'}}>
+             {/* { ai } */}
+             NOT MASK
+          </Text>
+        </Text>
+      </View>
+      <View style ={styles.camera}>
+        <Text style={styles.ai}>
+        <Icon name='expand'size={15}/>
+        {"    "}PICTURE
+        </Text>
+        <Image
+          style = {styles.img}
+          source = {{uri: 'data:image/jpeg;base64,'}} // 'data:image/jpeg;base64,' + data image from adafruit
+        />
+      </View>
+      </View>
+    </View>
+  );
+};
+
 const App = () => {
   const Stack = createStackNavigator();
   return (
@@ -290,6 +297,7 @@ const App = () => {
         <Stack.Screen name="HomeScreen" component={HomeScreen} />
         <Stack.Screen name="Control" component={Control} />
         <Stack.Screen name="Data" component={Data} />
+        <Stack.Screen name="Face ID" component={FACEID} />
       </Stack.Navigator>
     </NavigationContainer>
   );
@@ -378,6 +386,27 @@ const styles = StyleSheet.create({
     overflow: 'hidden',
     width: 150,
     textAlign: "center"
+  },
+  img:{
+    width: 250,
+    height: 200,
+    borderWidth: 1,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20,
+    borderColor: '#eae2e2',
+  },
+  camera:{
+    borderWidth: 1,
+    borderColor: '#eae2e2',
+    borderRadius: 20,
+    alignSelf: 'center',
+    marginTop: 30,
+    backgroundColor: '#eae2e2'
+  },
+  ai:{
+    textAlign: 'center',
+    fontSize: 20,
+    padding: 15
   }
 });
 
