@@ -279,7 +279,7 @@ const FACEID = props => {
         </Text>
         <Image
           style = {styles.img}
-          source = {{uri: 'data:image/jpeg;base64,'}} // 'data:image/jpeg;base64,' + data image from adafruit
+          //source = {{uri: ''}} 
         />
       </View>
       </View>
