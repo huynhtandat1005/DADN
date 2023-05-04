@@ -128,15 +128,56 @@ const HomeScreen = props => {
 
 // CONTROL SCREEN
 const Control = props => {
-  const [fan, setFAN] = useState(false)
-  const toggleFAN = (value) => {
-    setFAN(value)
+  const [light1, setLight1] = useState(false)
+  const toggleLIGHT1 = (value) => {
+    setLight1(value)
   }
-  const [light, setLIGHT] = useState(false)
-  const toggleLIGHT = (value) => {
-    setLIGHT(value)
+  const [light2, setLight2] = useState(false)
+  const toggleLIGHT2 = (value) => {
+    setLight2(value)
   }
-
+  const sendSignalLight1 = async (light1) => {
+    try {
+      let lightsignal = 0;
+      if (light1 === true) {
+        lightsignal = 1
+      }
+      else lightsignal = 0
+      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button1/data', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-AIO-Key': 'aio_BUql35CbSC79ZLSeTna1PVVE1H94'
+        },
+        body: JSON.stringify({ value: lightsignal  })
+      })
+      const data = await response.json()
+      console.log(data)
+    } catch (error) {
+      console.log(error)
+    }
+  }
+  const sendSignalLight2 = async (light2) => {
+    try {
+      let light2signal = 0;
+      if (light2 === true) {
+        light2signal = 1
+      }
+      else light2signal = 0
+      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button2/data', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-AIO-Key': 'aio_BUql35CbSC79ZLSeTna1PVVE1H94'
+        },
+        body: JSON.stringify({ value: light2signal  })
+      })
+      const data = await response.json()
+      console.log(data)
+    } catch (error) {
+      console.log(error)
+    }
+  }
   return (
     <View>
       <View style={styles.header}>
@@ -164,12 +205,14 @@ const Control = props => {
           <Text style = {{fontSize: 20}}>
             <Icon name='lightbulb' size={20}/>{"   "}SMART LIGHT 1
           </Text>
-          <Text style={styles.on_off}>{light ? 'ON':'OFF'}</Text>
+          <Text style={styles.on_off}>{light1 ? 'ON':'OFF'}</Text>
           {/*BUTTON TO TURN ON/OFF LIGHT */}
           <Switch
             style={{marginTop: 50, marginLeft: 100}}
-            onValueChange={toggleLIGHT}
-            value={light}/>
+            onValueChange={toggleLIGHT1}
+            value={light1}
+            onGestureEvent={sendSignalLight1(light1)}
+            />
         </View>
       </View>
 
@@ -178,12 +221,14 @@ const Control = props => {
           <Text style = {{fontSize: 20}}>
             <Icon name='lightbulb' size={20}/>{"   "}SMART LIGHT 2
           </Text>
-          <Text style={styles.on_off}>{light ? 'ON':'OFF'}</Text>
+          <Text style={styles.on_off}>{light2 ? 'ON':'OFF'}</Text>
           {/*BUTTON TO TURN ON/OFF LIGHT */}
           <Switch
             style={{marginTop: 50, marginLeft: 100}}
-            onValueChange={toggleLIGHT}
-            value={light}/>
+            onValueChange={toggleLIGHT2}
+            value={light2}
+            onGestureEvent={sendSignalLight2(light2)}
+            />
         </View>
       </View>
 
@@ -199,16 +244,14 @@ const Data = props => {
   const [temp, setTemp] = useState(0)
   const [light, setLight] = useState(0)
   const [humid, setHumid] = useState(0)
-
+  const [ai, setAi] = useState("")
   useEffect(() => {
-
-    
     socket.onmessage = (message) => {
       const data = JSON.parse(message.data)
       setTemp(data.temp)
       setHumid(data.humid)
       setLight(data.light)
-      
+      setAi(data.ai)  
     }
     // return () => intervalId; //This is important???
   }, [])
@@ -254,6 +297,20 @@ const Data = props => {
 
 //FACE ID SCREEN
 const FACEID = props => {
+  const [temp, setTemp] = useState(0)
+  const [light, setLight] = useState(0)
+  const [humid, setHumid] = useState(0)
+  const [ai, setAi] = useState("")
+  useEffect(() => {
+    socket.onmessage = (message) => {
+      const data = JSON.parse(message.data)
+      setTemp(data.temp)
+      setHumid(data.humid)
+      setLight(data.light)
+      setAi(data.ai)  
+    }
+    // return () => intervalId; //This is important???
+  }, [])
   return (
     <View>
       <View style={styles.header}>
@@ -268,7 +325,7 @@ const FACEID = props => {
           {"   "}CAMERA AI{"\n\n"}
           <Text style={{fontWeight: 'bold'}}>
              {/* { ai } */}
-             NOT MASK
+             {ai}
           </Text>
         </Text>
       </View>
