@@ -86,7 +86,10 @@ const HomeScreen = props => {
   const data = () => {
     props.navigation.navigate('Data');
   };
-
+  // GO TO OPEN DOOR SCREEN
+  const door = () => {
+    props.navigation.navigate('OpenDoor');
+  };
   return (
     <View> 
       {/* HEADER */}
@@ -111,11 +114,11 @@ const HomeScreen = props => {
           {"   "}DATA
         </Text>
       </TouchableOpacity>
-      {/* ENERGY USE*/}
-      <TouchableOpacity style ={styles.button}>
+      {/* OPEN DOOR*/}
+      <TouchableOpacity style ={styles.button} onPress={door}>
         <Text style = {styles.button1}>
-          <Icon name='battery-full'size={15}/>
-          {"   "}ENERGY USE
+          <Icon name='key'size={15}/>
+          {"   "}OPEN DOOR
         </Text>
       </TouchableOpacity>
 
@@ -146,7 +149,7 @@ const Control = props => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'X-AIO-Key': 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot'
+          'X-AIO-Key': 'aio_sHsy10VZwfSyQqV15wDXUOVsvIEW'
         },
         body: JSON.stringify({ value: lightsignal  })
       })
@@ -167,7 +170,7 @@ const Control = props => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'X-AIO-Key': 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot'
+          'X-AIO-Key': 'aio_sHsy10VZwfSyQqV15wDXUOVsvIEW'
         },
         body: JSON.stringify({ value: fansignal  })
       })
@@ -279,6 +282,49 @@ const Data = props => {
     </View>
   );
 };
+//OPEN DOOR SCREEN
+const OpenDoor = props => {
+  // const openWebcam = () => {
+    
+  // };
+  const sendSignalDoor = async () => {
+    try {
+      let doorsignal = "4";
+      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/receive/data', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'X-AIO-Key': 'aio_sHsy10VZwfSyQqV15wDXUOVsvIEW'
+        },
+        body: JSON.stringify({ value: doorsignal  })
+      })
+      const data = await response.json()
+      console.log(data)
+    } catch (error) {
+      console.log(error)
+    }
+  }
+  return (
+    <View>
+      <View style={styles.header}>
+        <Text style = {{fontSize: 24,color: 'white',fontWeight:'bold'}}>
+          OPEN DOOR
+        </Text>
+      </View>
+      <TouchableOpacity style ={styles.button} onPress={sendSignalDoor}>
+        <Text style = {styles.button1}>
+          <Icon name='adjust' size={15}/>
+          {"   "}CHECK BY FACE
+        </Text>
+      </TouchableOpacity>
+      {/* <Button style ={styles.button} onPress={sendSignalDoor}>
+        <Text style = {styles.button1}>
+          {"   "}CHECK BY FACE
+        </Text>
+      </Button> */}
+    </View>
+  );
+};
 
 const App = () => {
   const Stack = createStackNavigator();
@@ -290,6 +336,7 @@ const App = () => {
         <Stack.Screen name="HomeScreen" component={HomeScreen} />
         <Stack.Screen name="Control" component={Control} />
         <Stack.Screen name="Data" component={Data} />
+        <Stack.Screen name="OpenDoor" component={OpenDoor} />
       </Stack.Navigator>
     </NavigationContainer>
   );

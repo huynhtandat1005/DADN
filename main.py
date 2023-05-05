@@ -9,7 +9,7 @@ import pymongo
 
 AIO_FEED_IDs = ["button1","button2","receive"]
 AIO_USERNAME = "huyn02"
-AIO_KEY = "aio_ODJm46pnsK8WBdBiV2huWRpTqTot"    
+AIO_KEY = "aio_sHsy10VZwfSyQqV15wDXUOVsvIEW"    
 def readData(feed_key, sensor_name):
     feed_data = pd.read_json('https://io.adafruit.com/api/v2/{}/feeds/{}/data'.format(AIO_USERNAME,feed_key))
     feed_data['created_at'] =  pd.to_datetime(feed_data['created_at'])
