@@ -126,7 +126,7 @@ const HomeScreen = props => {
   );
 };
 const ID_USERNAME = 'huyn02';
-const IO_KEY = 'aio_DDhg69zMJVLWup6x8AmCI8GhfFRb';
+const IO_KEY = 'aio_QPGI26krHvmiarC2s51PuadqMf12';
 // CONTROL SCREEN
 const Control = props => {
   const [fan, setFAN] = useState(false)
@@ -230,15 +230,14 @@ const Data = props => {
   const [temp, setTemp] = useState(0)
   const [light, setLight] = useState(0)
   const [humid, setHumid] = useState(0)
+  const [door, setDoor] = useState("")
   useEffect(() => {
-
-    
     socket.onmessage = (message) => {
       const data = JSON.parse(message.data)
       setTemp(data.temp)
       setHumid(data.humid)
       setLight(data.light)
-      
+      setDoor(data.door)
     }
     // return () => intervalId; //This is important???
   }, [])
@@ -284,7 +283,20 @@ const Data = props => {
 //OPEN DOOR SCREEN
 const OpenDoor = props => {
   // const openWebcam = () => {
-    
+  const [temp, setTemp] = useState(0)
+  const [light, setLight] = useState(0)
+  const [humid, setHumid] = useState(0)
+  const [door, setDoor] = useState("")
+  useEffect(() => {
+    socket.onmessage = (message) => {
+      const data = JSON.parse(message.data)
+      setTemp(data.temp)
+      setHumid(data.humid)
+      setLight(data.light)
+      setDoor(data.door)
+    }
+    // return () => intervalId; //This is important???
+  }, [])
   // };
   const sendSignalDoor = async () => {
     try {
@@ -316,7 +328,15 @@ const OpenDoor = props => {
           {"   "}CHECK BY FACE
         </Text>
       </TouchableOpacity>
-
+      <View style ={styles.button}>
+        <Text style={styles.button1}>
+          <Icon name='door-closed' size={15}/>
+          {"   "}DOOR'S STATE{"\n\n"}
+          <Text style={{fontWeight: 'bold'}}>
+             { door }
+          </Text>
+        </Text>
+      </View>
     </View>
   );
 };

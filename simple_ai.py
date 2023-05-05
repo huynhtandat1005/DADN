@@ -30,8 +30,6 @@ def image_detector():
             break
         
         ret, image = camera.read()
-        print(image)
-        print("///////////////////////////////////////////////////////////////")
         # Resize the raw image into (224-height,224-width) pixels
         image = cv2.resize(image, (224, 224), interpolation=cv2.INTER_AREA)
 

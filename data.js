@@ -46,7 +46,8 @@ app.ws('/ws', (ws, req) => {
     const sensorData = {
         humid: 0,
         temp: 0,
-        light: 0
+        light: 0,
+        door: ""
     }
     // Send a message to the client every second
     const intervalId = setInterval(() => {
@@ -56,6 +57,8 @@ app.ws('/ws', (ws, req) => {
             .then(data => sensorData.temp = data[0].Value);
         DataValue.find({ Sensor: 'Light' }).sort({Timestamp: -1}).limit(1).lean()
             .then(data => sensorData.light = data[0].Value);
+        DataValue.find({ Sensor: 'Door' }).sort({Timestamp: -1}).limit(1).lean()
+            .then(data => sensorData.door = data[0].Value);
         ws.send(JSON.stringify(sensorData))
     }, 3000);
 
