@@ -380,16 +380,17 @@ const styles = StyleSheet.create({
     backgroundColor: '#3f6ff0',
     justifyContent: 'center',
     paddingLeft: 50,
-    marginBottom: 80
+    marginBottom: 30
   },
   button: {
     justifyContent: 'center',
     alignItems: 'center',
-    margin: 25
+    margin: 25,
+    marginBottom:15
   },
   button1: {
     paddingVertical: 20,
-    padding: 10,
+    // padding: 8,
     borderWidth: 1,
     borderColor: '#eae2e2',
     borderRadius: 15,
@@ -401,6 +402,7 @@ const styles = StyleSheet.create({
   },
   control:{
     backgroundColor: '#eae2e2',
+    marginTop: 10,
     marginBottom: 50,
     width: 250,
     left: 90,

@@ -1,0 +1,10117 @@
+[{
+  "_id": {
+    "$oid": "642fc6adb4b98ba385bd8c85"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-03T08:42:34.000Z"
+  },
+  "Value": 39.5
+},{
+  "_id": {
+    "$oid": "642fc726540a7e3aa7d477b2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-03T08:42:29.000Z"
+  },
+  "Value": 39.5
+},{
+  "_id": {
+    "$oid": "642fc78ee1e94dac1f461d2b"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-03T08:42:29.000Z"
+  },
+  "Value": 39.5
+},{
+  "_id": {
+    "$oid": "642fdb625bae42835580b1de"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-07T08:59:11.000Z"
+  },
+  "Value": 39.6
+},{
+  "_id": {
+    "$oid": "642fdda4d48777ee3535ce71"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-07T09:08:50.000Z"
+  },
+  "Value": 39.6
+},{
+  "_id": {
+    "$oid": "642fddbbd48777ee3535ce73"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-07T09:09:13.000Z"
+  },
+  "Value": 40
+},{
+  "_id": {
+    "$oid": "642fde1374b317d1020e3a24"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-07T09:10:41.000Z"
+  },
+  "Value": 60
+},{
+  "_id": {
+    "$oid": "6437ad5aa1406653fd6a0bc1"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-13T07:20:55.000Z"
+  },
+  "Value": 45
+},{
+  "_id": {
+    "$oid": "6437b1d7a1406653fd6a0bc3"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-13T07:40:04.000Z"
+  },
+  "Value": 60
+},{
+  "_id": {
+    "$oid": "6437b1eba1406653fd6a0bc5"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T07:40:24.000Z"
+  },
+  "Value": 40
+},{
+  "_id": {
+    "$oid": "6437b8d8a1406653fd6a0bc7"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:09:59.000Z"
+  },
+  "Value": 66
+},{
+  "_id": {
+    "$oid": "6437bc81a1406653fd6a0bc9"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:25:36.000Z"
+  },
+  "Value": 75
+},{
+  "_id": {
+    "$oid": "6437bd06a1406653fd6a0bcb"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:27:44.000Z"
+  },
+  "Value": 56
+},{
+  "_id": {
+    "$oid": "6437be67a1406653fd6a0bcd"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:33:40.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6437beb1a1406653fd6a0bcf"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:34:55.000Z"
+  },
+  "Value": 58
+},{
+  "_id": {
+    "$oid": "6437bfdda1406653fd6a0bd1"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:39:56.000Z"
+  },
+  "Value": 87
+},{
+  "_id": {
+    "$oid": "6437c2d7a1406653fd6a0bd3"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:52:34.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6437c33ea1406653fd6a0bd5"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T08:54:21.000Z"
+  },
+  "Value": 56
+},{
+  "_id": {
+    "$oid": "6437c60ca1406653fd6a0bd7"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T09:06:19.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "6437c657a1406653fd6a0bd9"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T09:07:33.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6437c763a1406653fd6a0bdb"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T09:11:59.000Z"
+  },
+  "Value": 39
+},{
+  "_id": {
+    "$oid": "6437d595690b92e8e6d5728b"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T10:12:36.000Z"
+  },
+  "Value": 69
+},{
+  "_id": {
+    "$oid": "6437d703690b92e8e6d5728d"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T10:18:43.000Z"
+  },
+  "Value": 46
+},{
+  "_id": {
+    "$oid": "6437de29690b92e8e6d5728f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T10:49:12.000Z"
+  },
+  "Value": 36
+},{
+  "_id": {
+    "$oid": "6437e16f690b92e8e6d57291"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T11:03:10.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "6437e288690b92e8e6d57293"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T11:07:52.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "6437e45e690b92e8e6d57295"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T11:15:42.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6437e584690b92e8e6d57297"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T11:20:36.000Z"
+  },
+  "Value": 35
+},{
+  "_id": {
+    "$oid": "6437e610690b92e8e6d57299"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T11:22:56.000Z"
+  },
+  "Value": 36
+},{
+  "_id": {
+    "$oid": "64381493cadb8e5198e15d24"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T14:41:23.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "643814a9cadb8e5198e15d26"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T14:41:45.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "643814cdcadb8e5198e15d28"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T14:42:21.000Z"
+  },
+  "Value": 67
+},{
+  "_id": {
+    "$oid": "643814ffcadb8e5198e15d2a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T14:43:11.000Z"
+  },
+  "Value": 46
+},{
+  "_id": {
+    "$oid": "64381619cadb8e5198e15d2c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T14:47:53.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "64381bd6cadb8e5198e15d2e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T15:12:21.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "64381cbbcadb8e5198e15d30"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-13T15:16:11.000Z"
+  },
+  "Value": 46
+},{
+  "_id": {
+    "$oid": "6438c17cc2505676b033e8c1"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T02:59:07.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "6438c347c2505676b033e8c3"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:06:47.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c349c2505676b033e8c5"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:06:47.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438c34ac2505676b033e8c7"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:06:47.000Z"
+  },
+  "Value": 52.1
+},{
+  "_id": {
+    "$oid": "6438c353c2505676b033e8c9"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:06:59.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438c355c2505676b033e8cb"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:06:59.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c357c2505676b033e8cd"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:06:59.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "6438c360c2505676b033e8cf"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:12.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c361c2505676b033e8d1"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:12.000Z"
+  },
+  "Value": 28.5
+},{
+  "_id": {
+    "$oid": "6438c363c2505676b033e8d3"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:12.000Z"
+  },
+  "Value": 51.5
+},{
+  "_id": {
+    "$oid": "6438c36cc2505676b033e8d5"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:24.000Z"
+  },
+  "Value": 28.5
+},{
+  "_id": {
+    "$oid": "6438c36ec2505676b033e8d7"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:24.000Z"
+  },
+  "Value": 51.8
+},{
+  "_id": {
+    "$oid": "6438c370c2505676b033e8d9"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:24.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c378c2505676b033e8db"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:37.000Z"
+  },
+  "Value": 51.8
+},{
+  "_id": {
+    "$oid": "6438c37ac2505676b033e8dd"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:37.000Z"
+  },
+  "Value": 28.5
+},{
+  "_id": {
+    "$oid": "6438c37cc2505676b033e8df"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:37.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c385c2505676b033e8e1"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:49.000Z"
+  },
+  "Value": 51.5
+},{
+  "_id": {
+    "$oid": "6438c386c2505676b033e8e3"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:49.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c388c2505676b033e8e5"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:07:49.000Z"
+  },
+  "Value": 28.6
+},{
+  "_id": {
+    "$oid": "6438c397c2505676b033e8e7"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:07.000Z"
+  },
+  "Value": 28.7
+},{
+  "_id": {
+    "$oid": "6438c3a3c2505676b033e8e9"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:20.000Z"
+  },
+  "Value": 28.7
+},{
+  "_id": {
+    "$oid": "6438c3b0c2505676b033e8eb"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:33.000Z"
+  },
+  "Value": 28.7
+},{
+  "_id": {
+    "$oid": "6438c3b2c2505676b033e8ed"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:33.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c3bec2505676b033e8ef"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:46.000Z"
+  },
+  "Value": 28.8
+},{
+  "_id": {
+    "$oid": "6438c3c0c2505676b033e8f1"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:46.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c3c4c2505676b033e8f3"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:52.000Z"
+  },
+  "Value": 51.1
+},{
+  "_id": {
+    "$oid": "6438c3cac2505676b033e8f5"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:58.000Z"
+  },
+  "Value": 28.8
+},{
+  "_id": {
+    "$oid": "6438c3ccc2505676b033e8f7"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:08:58.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c3d1c2505676b033e8f9"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:05.000Z"
+  },
+  "Value": 50.8
+},{
+  "_id": {
+    "$oid": "6438c3d7c2505676b033e8fb"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:11.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c3d9c2505676b033e8fd"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:11.000Z"
+  },
+  "Value": 28.7
+},{
+  "_id": {
+    "$oid": "6438c3ddc2505676b033e8ff"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:18.000Z"
+  },
+  "Value": 51
+},{
+  "_id": {
+    "$oid": "6438c3e3c2505676b033e901"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:24.000Z"
+  },
+  "Value": 28.8
+},{
+  "_id": {
+    "$oid": "6438c3e6c2505676b033e903"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:24.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c3eac2505676b033e905"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:30.000Z"
+  },
+  "Value": 51.1
+},{
+  "_id": {
+    "$oid": "6438c3f0c2505676b033e907"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:37.000Z"
+  },
+  "Value": 28.8
+},{
+  "_id": {
+    "$oid": "6438c3f2c2505676b033e909"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:37.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c3f7c2505676b033e90b"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:43.000Z"
+  },
+  "Value": 51.2
+},{
+  "_id": {
+    "$oid": "6438c3fdc2505676b033e90d"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:50.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c3ffc2505676b033e90f"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:50.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c404c2505676b033e911"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:09:57.000Z"
+  },
+  "Value": 51.1
+},{
+  "_id": {
+    "$oid": "6438c40bc2505676b033e913"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:03.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c40cc2505676b033e915"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:03.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c411c2505676b033e917"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:09.000Z"
+  },
+  "Value": 51
+},{
+  "_id": {
+    "$oid": "6438c417c2505676b033e919"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:16.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c419c2505676b033e91b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:16.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c41ec2505676b033e91d"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:22.000Z"
+  },
+  "Value": 51.7
+},{
+  "_id": {
+    "$oid": "6438c424c2505676b033e91f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:29.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c426c2505676b033e921"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:29.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c42bc2505676b033e923"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:35.000Z"
+  },
+  "Value": 51
+},{
+  "_id": {
+    "$oid": "6438c431c2505676b033e925"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:41.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c433c2505676b033e927"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:41.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c437c2505676b033e929"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:48.000Z"
+  },
+  "Value": 51.2
+},{
+  "_id": {
+    "$oid": "6438c43ec2505676b033e92b"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:54.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c440c2505676b033e92d"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:10:54.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c444c2505676b033e92f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:01.000Z"
+  },
+  "Value": 51.4
+},{
+  "_id": {
+    "$oid": "6438c44bc2505676b033e931"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:07.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c44cc2505676b033e933"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:07.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c451c2505676b033e935"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:13.000Z"
+  },
+  "Value": 50.6
+},{
+  "_id": {
+    "$oid": "6438c457c2505676b033e937"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:20.000Z"
+  },
+  "Value": 28.9
+},{
+  "_id": {
+    "$oid": "6438c459c2505676b033e939"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:20.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c45ec2505676b033e93b"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:26.000Z"
+  },
+  "Value": 50.9
+},{
+  "_id": {
+    "$oid": "6438c464c2505676b033e93d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:32.000Z"
+  },
+  "Value": 28.8
+},{
+  "_id": {
+    "$oid": "6438c465c2505676b033e93f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:32.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438c46ac2505676b033e941"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:39.000Z"
+  },
+  "Value": 51
+},{
+  "_id": {
+    "$oid": "6438c470c2505676b033e943"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:45.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6438c472c2505676b033e945"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:11:45.000Z"
+  },
+  "Value": 28.7
+},{
+  "_id": {
+    "$oid": "6438cb923cac4128b92c1ac5"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:09.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6438cb943cac4128b92c1ac7"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:09.000Z"
+  },
+  "Value": 28.3
+},{
+  "_id": {
+    "$oid": "6438cb963cac4128b92c1ac9"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:09.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438cb9d3cac4128b92c1acb"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:21.000Z"
+  },
+  "Value": 28.2
+},{
+  "_id": {
+    "$oid": "6438cb9f3cac4128b92c1acd"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:21.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cba13cac4128b92c1acf"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:21.000Z"
+  },
+  "Value": 50.9
+},{
+  "_id": {
+    "$oid": "6438cba93cac4128b92c1ad1"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:34.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cbab3cac4128b92c1ad3"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:34.000Z"
+  },
+  "Value": 28.2
+},{
+  "_id": {
+    "$oid": "6438cbad3cac4128b92c1ad5"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:34.000Z"
+  },
+  "Value": 50.1
+},{
+  "_id": {
+    "$oid": "6438cbb63cac4128b92c1ad7"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:47.000Z"
+  },
+  "Value": 28.2
+},{
+  "_id": {
+    "$oid": "6438cbb83cac4128b92c1ad9"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:47.000Z"
+  },
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "6438cbba3cac4128b92c1adb"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:42:47.000Z"
+  },
+  "Value": 50.9
+},{
+  "_id": {
+    "$oid": "6438cbc33cac4128b92c1add"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:00.000Z"
+  },
+  "Value": 50.1
+},{
+  "_id": {
+    "$oid": "6438cbc63cac4128b92c1adf"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:00.000Z"
+  },
+  "Value": 28.2
+},{
+  "_id": {
+    "$oid": "6438cbc73cac4128b92c1ae1"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:00.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cbd03cac4128b92c1ae3"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:13.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cbd23cac4128b92c1ae5"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:13.000Z"
+  },
+  "Value": 28.3
+},{
+  "_id": {
+    "$oid": "6438cbd43cac4128b92c1ae7"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:13.000Z"
+  },
+  "Value": 49.9
+},{
+  "_id": {
+    "$oid": "6438cbdc3cac4128b92c1ae9"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:25.000Z"
+  },
+  "Value": 28.3
+},{
+  "_id": {
+    "$oid": "6438cbde3cac4128b92c1aeb"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:25.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cbe03cac4128b92c1aed"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:25.000Z"
+  },
+  "Value": 50.1
+},{
+  "_id": {
+    "$oid": "6438cbe93cac4128b92c1aef"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:37.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cbeb3cac4128b92c1af1"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:37.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6438cbed3cac4128b92c1af3"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:37.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cbf53cac4128b92c1af5"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:50.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cbf73cac4128b92c1af7"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:43:50.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc013cac4128b92c1af9"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:02.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc033cac4128b92c1afb"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:02.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc0e3cac4128b92c1afd"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:14.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438cc103cac4128b92c1aff"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:14.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc1b3cac4128b92c1b01"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:27.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc1c3cac4128b92c1b03"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:27.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc273cac4128b92c1b05"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:39.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc293cac4128b92c1b07"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:39.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc333cac4128b92c1b09"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:52.000Z"
+  },
+  "Value": 49.6
+},{
+  "_id": {
+    "$oid": "6438cc353cac4128b92c1b0b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:52.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc373cac4128b92c1b0d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:44:52.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc403cac4128b92c1b0f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:04.000Z"
+  },
+  "Value": 50.1
+},{
+  "_id": {
+    "$oid": "6438cc413cac4128b92c1b11"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:04.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc443cac4128b92c1b13"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:04.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc4c3cac4128b92c1b15"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:17.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc4e3cac4128b92c1b17"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:17.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc503cac4128b92c1b19"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:17.000Z"
+  },
+  "Value": 49.7
+},{
+  "_id": {
+    "$oid": "6438cc593cac4128b92c1b1b"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:29.000Z"
+  },
+  "Value": 28.4
+},{
+  "_id": {
+    "$oid": "6438cc5b3cac4128b92c1b1d"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:29.000Z"
+  },
+  "Value": 1
+},{
+  "_id": {
+    "$oid": "6438cc5d3cac4128b92c1b1f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:29.000Z"
+  },
+  "Value": 49.6
+},{
+  "_id": {
+    "$oid": "6438cc653cac4128b92c1b21"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:42.000Z"
+  },
+  "Value": 28.3
+},{
+  "_id": {
+    "$oid": "6438cc673cac4128b92c1b23"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:42.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc693cac4128b92c1b25"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:42.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6438cc723cac4128b92c1b27"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:54.000Z"
+  },
+  "Value": 28.2
+},{
+  "_id": {
+    "$oid": "6438cc743cac4128b92c1b29"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:55.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6438cc763cac4128b92c1b2b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:45:55.000Z"
+  },
+  "Value": 2
+},{
+  "_id": {
+    "$oid": "6438cc7f3cac4128b92c1b2d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:46:07.000Z"
+  },
+  "Value": 28.3
+},{
+  "_id": {
+    "$oid": "6438cc813cac4128b92c1b2f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:46:07.000Z"
+  },
+  "Value": 57.1
+},{
+  "_id": {
+    "$oid": "6438cc823cac4128b92c1b31"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:46:07.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438cc8b3cac4128b92c1b33"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T03:46:19.000Z"
+  },
+  "Value": 28.5
+},{
+  "_id": {
+    "$oid": "6438cc8c3cac4128b92c1b35"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T03:46:19.000Z"
+  },
+  "Value": 56.7
+},{
+  "_id": {
+    "$oid": "6438cc8e3cac4128b92c1b37"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T03:46:19.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438d064e5ac1a9d4a47f38c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:02:43.000Z"
+  },
+  "Value": 0
+},{
+  "_id": {
+    "$oid": "6438d065e5ac1a9d4a47f38e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:02:43.000Z"
+  },
+  "Value": 55.1
+},{
+  "_id": {
+    "$oid": "6438d067e5ac1a9d4a47f390"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:02:43.000Z"
+  },
+  "Value": 26.2
+},{
+  "_id": {
+    "$oid": "6438d078e5ac1a9d4a47f392"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:04.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6438d079e5ac1a9d4a47f394"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:04.000Z"
+  },
+  "Value": 26.3
+},{
+  "_id": {
+    "$oid": "6438d07be5ac1a9d4a47f396"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:04.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6438d08ce5ac1a9d4a47f398"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:25.000Z"
+  },
+  "Value": 54
+},{
+  "_id": {
+    "$oid": "6438d08ee5ac1a9d4a47f39a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:25.000Z"
+  },
+  "Value": 26.3
+},{
+  "_id": {
+    "$oid": "6438d090e5ac1a9d4a47f39c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:25.000Z"
+  },
+  "Value": 54.6
+},{
+  "_id": {
+    "$oid": "6438d0a2e5ac1a9d4a47f39e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:46.000Z"
+  },
+  "Value": 0
+},{
+  "_id": {
+    "$oid": "6438d0a4e5ac1a9d4a47f3a0"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:46.000Z"
+  },
+  "Value": 57.3
+},{
+  "_id": {
+    "$oid": "6438d0a5e5ac1a9d4a47f3a2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:03:46.000Z"
+  },
+  "Value": 26.3
+},{
+  "_id": {
+    "$oid": "6438d0b8e5ac1a9d4a47f3a4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:08.000Z"
+  },
+  "Value": 54.6
+},{
+  "_id": {
+    "$oid": "6438d0b9e5ac1a9d4a47f3a6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:08.000Z"
+  },
+  "Value": 26.3
+},{
+  "_id": {
+    "$oid": "6438d0bbe5ac1a9d4a47f3a8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:08.000Z"
+  },
+  "Value": 47
+},{
+  "_id": {
+    "$oid": "6438d0d4e5ac1a9d4a47f3aa"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:36.000Z"
+  },
+  "Value": 26.3
+},{
+  "_id": {
+    "$oid": "6438d0d6e5ac1a9d4a47f3ac"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:36.000Z"
+  },
+  "Value": 42
+},{
+  "_id": {
+    "$oid": "6438d0d7e5ac1a9d4a47f3ae"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:36.000Z"
+  },
+  "Value": 55.1
+},{
+  "_id": {
+    "$oid": "6438d0e7e5ac1a9d4a47f3b0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:56.000Z"
+  },
+  "Value": 26.3
+},{
+  "_id": {
+    "$oid": "6438d0e9e5ac1a9d4a47f3b2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:56.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6438d0ebe5ac1a9d4a47f3b4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:04:56.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "6438d0f2e5ac1a9d4a47f3b6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:06.000Z"
+  },
+  "Value": 54.9
+},{
+  "_id": {
+    "$oid": "6438d0f4e5ac1a9d4a47f3b8"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:06.000Z"
+  },
+  "Value": 26.2
+},{
+  "_id": {
+    "$oid": "6438d0f6e5ac1a9d4a47f3ba"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:06.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "6438d107e5ac1a9d4a47f3bc"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:28.000Z"
+  },
+  "Value": 8
+},{
+  "_id": {
+    "$oid": "6438d109e5ac1a9d4a47f3be"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:28.000Z"
+  },
+  "Value": 26.2
+},{
+  "_id": {
+    "$oid": "6438d10be5ac1a9d4a47f3c0"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:28.000Z"
+  },
+  "Value": 55.3
+},{
+  "_id": {
+    "$oid": "6438d112e5ac1a9d4a47f3c2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:38.000Z"
+  },
+  "Value": 54.8
+},{
+  "_id": {
+    "$oid": "6438d114e5ac1a9d4a47f3c4"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:38.000Z"
+  },
+  "Value": 26.2
+},{
+  "_id": {
+    "$oid": "6438d116e5ac1a9d4a47f3c6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:38.000Z"
+  },
+  "Value": 8
+},{
+  "_id": {
+    "$oid": "6438d11ce5ac1a9d4a47f3c8"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:49.000Z"
+  },
+  "Value": 26.2
+},{
+  "_id": {
+    "$oid": "6438d11ee5ac1a9d4a47f3ca"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:49.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "6438d120e5ac1a9d4a47f3cc"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:05:49.000Z"
+  },
+  "Value": 54.6
+},{
+  "_id": {
+    "$oid": "6438d131e5ac1a9d4a47f3ce"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:06:09.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d133e5ac1a9d4a47f3d0"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:06:09.000Z"
+  },
+  "Value": 10
+},{
+  "_id": {
+    "$oid": "6438d135e5ac1a9d4a47f3d2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:06:09.000Z"
+  },
+  "Value": 55.3
+},{
+  "_id": {
+    "$oid": "6438d168473570b811379dcc"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:04.000Z"
+  },
+  "Value": 56
+},{
+  "_id": {
+    "$oid": "6438d16a473570b811379dce"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:04.000Z"
+  },
+  "Value": 25.9
+},{
+  "_id": {
+    "$oid": "6438d16c473570b811379dd0"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:04.000Z"
+  },
+  "Value": 55.5
+},{
+  "_id": {
+    "$oid": "6438d17c473570b811379dd2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:25.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6438d17e473570b811379dd4"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:25.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d180473570b811379dd6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:25.000Z"
+  },
+  "Value": 55.6
+},{
+  "_id": {
+    "$oid": "6438d187473570b811379dd8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:35.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6438d189473570b811379dda"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:35.000Z"
+  },
+  "Value": 55.5
+},{
+  "_id": {
+    "$oid": "6438d18b473570b811379ddc"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:35.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d191473570b811379dde"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:45.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6438d193473570b811379de0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:45.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d195473570b811379de2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:45.000Z"
+  },
+  "Value": 55.5
+},{
+  "_id": {
+    "$oid": "6438d19b473570b811379de4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:56.000Z"
+  },
+  "Value": 54
+},{
+  "_id": {
+    "$oid": "6438d19d473570b811379de6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:56.000Z"
+  },
+  "Value": 55.6
+},{
+  "_id": {
+    "$oid": "6438d19f473570b811379de8"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:07:56.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d1a6473570b811379dea"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:06.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d1a8473570b811379dec"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:06.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "6438d1aa473570b811379dee"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:06.000Z"
+  },
+  "Value": 55.6
+},{
+  "_id": {
+    "$oid": "6438d1b0473570b811379df0"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:17.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6438d1b2473570b811379df2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:17.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d1b4473570b811379df4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:17.000Z"
+  },
+  "Value": 55.3
+},{
+  "_id": {
+    "$oid": "6438d1bb473570b811379df6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:28.000Z"
+  },
+  "Value": 55.6
+},{
+  "_id": {
+    "$oid": "6438d1bd473570b811379df8"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:28.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d1bf473570b811379dfa"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:28.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6438d1c6473570b811379dfc"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:38.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "6438d1c8473570b811379dfe"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:38.000Z"
+  },
+  "Value": 55.8
+},{
+  "_id": {
+    "$oid": "6438d1ca473570b811379e00"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:38.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d1d0473570b811379e02"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:49.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d1d2473570b811379e04"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:49.000Z"
+  },
+  "Value": 55.6
+},{
+  "_id": {
+    "$oid": "6438d1d4473570b811379e06"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:49.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6438d1da473570b811379e08"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:08:59.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d1fda6f45e32461d09e1"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:34.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "6438d1ffa6f45e32461d09e3"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:34.000Z"
+  },
+  "Value": 25.8
+},{
+  "_id": {
+    "$oid": "6438d201a6f45e32461d09e5"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:34.000Z"
+  },
+  "Value": 56.5
+},{
+  "_id": {
+    "$oid": "6438d207a6f45e32461d09e7"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:44.000Z"
+  },
+  "Value": 55.5
+},{
+  "_id": {
+    "$oid": "6438d209a6f45e32461d09e9"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:44.000Z"
+  },
+  "Value": 47
+},{
+  "_id": {
+    "$oid": "6438d20ba6f45e32461d09eb"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:44.000Z"
+  },
+  "Value": 25.9
+},{
+  "_id": {
+    "$oid": "6438d212a6f45e32461d09ed"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:54.000Z"
+  },
+  "Value": 55.6
+},{
+  "_id": {
+    "$oid": "6438d214a6f45e32461d09ef"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:54.000Z"
+  },
+  "Value": 25.9
+},{
+  "_id": {
+    "$oid": "6438d216a6f45e32461d09f1"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:09:54.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "6438d21ca6f45e32461d09f3"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:05.000Z"
+  },
+  "Value": 55.5
+},{
+  "_id": {
+    "$oid": "6438d21ea6f45e32461d09f5"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:05.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6438d220a6f45e32461d09f7"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:05.000Z"
+  },
+  "Value": 25.9
+},{
+  "_id": {
+    "$oid": "6438d227a6f45e32461d09f9"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:16.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6438d229a6f45e32461d09fb"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:16.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d22ba6f45e32461d09fd"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:16.000Z"
+  },
+  "Value": 55.7
+},{
+  "_id": {
+    "$oid": "6438d232a6f45e32461d09ff"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:26.000Z"
+  },
+  "Value": 55.4
+},{
+  "_id": {
+    "$oid": "6438d234a6f45e32461d0a01"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:26.000Z"
+  },
+  "Value": 45
+},{
+  "_id": {
+    "$oid": "6438d235a6f45e32461d0a03"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:26.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d23ca6f45e32461d0a05"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:37.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "6438d23ea6f45e32461d0a07"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:37.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d240a6f45e32461d0a09"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:37.000Z"
+  },
+  "Value": 55.3
+},{
+  "_id": {
+    "$oid": "6438d247a6f45e32461d0a0b"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:48.000Z"
+  },
+  "Value": 55.3
+},{
+  "_id": {
+    "$oid": "6438d249a6f45e32461d0a0d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:48.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d24ba6f45e32461d0a0f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:48.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "6438d252a6f45e32461d0a11"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:59.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6438d254a6f45e32461d0a13"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:59.000Z"
+  },
+  "Value": 55.1
+},{
+  "_id": {
+    "$oid": "6438d256a6f45e32461d0a15"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:10:59.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d25da6f45e32461d0a17"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:09.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d25ea6f45e32461d0a19"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:09.000Z"
+  },
+  "Value": 55.3
+},{
+  "_id": {
+    "$oid": "6438d260a6f45e32461d0a1b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:09.000Z"
+  },
+  "Value": 59
+},{
+  "_id": {
+    "$oid": "6438d271a6f45e32461d0a1d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:29.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d273a6f45e32461d0a1f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:29.000Z"
+  },
+  "Value": 54
+},{
+  "_id": {
+    "$oid": "6438d274a6f45e32461d0a21"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:29.000Z"
+  },
+  "Value": 55.5
+},{
+  "_id": {
+    "$oid": "6438d27ba6f45e32461d0a23"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:39.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d285a6f45e32461d0a25"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:50.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6438d287a6f45e32461d0a27"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:50.000Z"
+  },
+  "Value": 59
+},{
+  "_id": {
+    "$oid": "6438d288a6f45e32461d0a29"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:11:50.000Z"
+  },
+  "Value": 56.6
+},{
+  "_id": {
+    "$oid": "6438d290a6f45e32461d0a2b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:00.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6438d291a6f45e32461d0a2d"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:00.000Z"
+  },
+  "Value": 55.3
+},{
+  "_id": {
+    "$oid": "6438d293a6f45e32461d0a2f"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:00.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d29aa6f45e32461d0a31"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:10.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d29ca6f45e32461d0a33"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:10.000Z"
+  },
+  "Value": 51
+},{
+  "_id": {
+    "$oid": "6438d29ea6f45e32461d0a35"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:10.000Z"
+  },
+  "Value": 54.9
+},{
+  "_id": {
+    "$oid": "6438d2a4a6f45e32461d0a37"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:21.000Z"
+  },
+  "Value": 54.6
+},{
+  "_id": {
+    "$oid": "6438d2a6a6f45e32461d0a39"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:21.000Z"
+  },
+  "Value": 51
+},{
+  "_id": {
+    "$oid": "6438d2a8a6f45e32461d0a3b"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:21.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d2afa6f45e32461d0a3d"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:31.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6438d2b1a6f45e32461d0a3f"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:31.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d2b3a6f45e32461d0a41"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:31.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6438d2b9a6f45e32461d0a43"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:42.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d2bba6f45e32461d0a45"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:42.000Z"
+  },
+  "Value": 54.9
+},{
+  "_id": {
+    "$oid": "6438d2bda6f45e32461d0a47"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:42.000Z"
+  },
+  "Value": 59
+},{
+  "_id": {
+    "$oid": "6438d2c4a6f45e32461d0a49"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:52.000Z"
+  },
+  "Value": 54.8
+},{
+  "_id": {
+    "$oid": "6438d2c5a6f45e32461d0a4b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:52.000Z"
+  },
+  "Value": 61
+},{
+  "_id": {
+    "$oid": "6438d2c7a6f45e32461d0a4d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:12:52.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d2cea6f45e32461d0a4f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:02.000Z"
+  },
+  "Value": 54.5
+},{
+  "_id": {
+    "$oid": "6438d2d0a6f45e32461d0a51"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:02.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6438d2d8a6f45e32461d0a53"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:12.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d2e2a6f45e32461d0a55"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:22.000Z"
+  },
+  "Value": 54.5
+},{
+  "_id": {
+    "$oid": "6438d2e3a6f45e32461d0a57"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:22.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6438d2eca6f45e32461d0a59"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:33.000Z"
+  },
+  "Value": 60
+},{
+  "_id": {
+    "$oid": "6438d2eea6f45e32461d0a5b"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:33.000Z"
+  },
+  "Value": 26.1
+},{
+  "_id": {
+    "$oid": "6438d2f0a6f45e32461d0a5d"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:33.000Z"
+  },
+  "Value": 54.6
+},{
+  "_id": {
+    "$oid": "6438d2f7a6f45e32461d0a5f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:43.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6438d2f8a6f45e32461d0a61"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:43.000Z"
+  },
+  "Value": 54.6
+},{
+  "_id": {
+    "$oid": "6438d301a6f45e32461d0a63"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:13:53.000Z"
+  },
+  "Value": 26.2
+},{
+  "_id": {
+    "$oid": "6438d30ba6f45e32461d0a65"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-14T04:14:03.000Z"
+  },
+  "Value": 54.4
+},{
+  "_id": {
+    "$oid": "6438d30ca6f45e32461d0a67"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-14T04:14:03.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6438d30ea6f45e32461d0a69"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-14T04:14:03.000Z"
+  },
+  "Value": 26.2
+},{
+  "_id": {
+    "$oid": "6445f7bc486e57c787c1596d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:00.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "6445f7be486e57c787c1596f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:00.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "6445f7c2486e57c787c15971"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:03.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "6445f7c5486e57c787c15973"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:12.000Z"
+  },
+  "Value": 46
+},{
+  "_id": {
+    "$oid": "6445f7cb486e57c787c15975"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:17.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "6445f7cf486e57c787c15977"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:22.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "6445f7d3486e57c787c15979"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:27.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "6445f7de486e57c787c1597b"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:32.000Z"
+  },
+  "Value": 66
+},{
+  "_id": {
+    "$oid": "6445f7e0486e57c787c1597d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:37.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "6445f7e3486e57c787c1597f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:42.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "6445f7ea486e57c787c15981"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:47.000Z"
+  },
+  "Value": 7
+},{
+  "_id": {
+    "$oid": "6445f7ed486e57c787c15983"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:53.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6445f7f4486e57c787c15985"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:30:58.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "6445f7f9486e57c787c15987"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:03.000Z"
+  },
+  "Value": 35
+},{
+  "_id": {
+    "$oid": "6445f7fc486e57c787c15989"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:08.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6445f807486e57c787c1598b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:13.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6445f80b486e57c787c1598d"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:18.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "6445f80d486e57c787c1598f"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:23.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "6445f811486e57c787c15991"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:28.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6445f817486e57c787c15993"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:33.000Z"
+  },
+  "Value": 94
+},{
+  "_id": {
+    "$oid": "6445f81a486e57c787c15995"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:38.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "6445f82a486e57c787c15997"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:43.000Z"
+  },
+  "Value": 62
+},{
+  "_id": {
+    "$oid": "6445f833486e57c787c15999"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:48.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6445f836486e57c787c1599b"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:52.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "6445f841486e57c787c1599d"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:31:57.000Z"
+  },
+  "Value": 81
+},{
+  "_id": {
+    "$oid": "6445f843486e57c787c1599f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:17.000Z"
+  },
+  "Value": 95
+},{
+  "_id": {
+    "$oid": "6445f845486e57c787c159a1"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:07.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "6445f847486e57c787c159a3"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:13.000Z"
+  },
+  "Value": 71
+},{
+  "_id": {
+    "$oid": "6445f849486e57c787c159a5"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:17.000Z"
+  },
+  "Value": 95
+},{
+  "_id": {
+    "$oid": "6445f850486e57c787c159a7"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:23.000Z"
+  },
+  "Value": 33
+},{
+  "_id": {
+    "$oid": "6445f852486e57c787c159a9"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:27.000Z"
+  },
+  "Value": 60
+},{
+  "_id": {
+    "$oid": "6445f856486e57c787c159ab"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:33.000Z"
+  },
+  "Value": 93
+},{
+  "_id": {
+    "$oid": "6445f85a486e57c787c159ad"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:38.000Z"
+  },
+  "Value": 30
+},{
+  "_id": {
+    "$oid": "6445f85c486e57c787c159af"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:43.000Z"
+  },
+  "Value": 11
+},{
+  "_id": {
+    "$oid": "6445f860486e57c787c159b1"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:48.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "6445f866486e57c787c159b3"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:53.000Z"
+  },
+  "Value": 20
+},{
+  "_id": {
+    "$oid": "6445f86e486e57c787c159b5"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:32:58.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "6445f872486e57c787c159b7"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:03.000Z"
+  },
+  "Value": 94
+},{
+  "_id": {
+    "$oid": "6445f876486e57c787c159b9"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:07.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "6445f879486e57c787c159bb"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:12.000Z"
+  },
+  "Value": 86
+},{
+  "_id": {
+    "$oid": "6445f884486e57c787c159bd"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:17.000Z"
+  },
+  "Value": 69
+},{
+  "_id": {
+    "$oid": "6445f888486e57c787c159bf"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:22.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "6445f88a486e57c787c159c1"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:27.000Z"
+  },
+  "Value": 42
+},{
+  "_id": {
+    "$oid": "6445f88e486e57c787c159c3"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:32.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6445f89c486e57c787c159c5"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:33:37.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "6445f962af425f5f80114f78"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:37:04.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "6445f968af425f5f80114f7a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:37:11.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "6445f972af425f5f80114f7c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:37:22.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "6445f97caf425f5f80114f7e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:37:31.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "6445f986af425f5f80114f80"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:37:41.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "6445f990af425f5f80114f82"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:37:51.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "6445f99baf425f5f80114f84"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:38:01.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "6445f9a6af425f5f80114f86"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:38:12.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "6445fd0b020da644533b083d"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:52:38.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "6445fd0f020da644533b083f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:52:46.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "6445fd20020da644533b0841"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:52:56.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "6445fd23020da644533b0843"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:53:06.000Z"
+  },
+  "Value": 60
+},{
+  "_id": {
+    "$oid": "6445fd2d020da644533b0845"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:53:16.000Z"
+  },
+  "Value": 87
+},{
+  "_id": {
+    "$oid": "6445fd37020da644533b0847"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:53:26.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "6445fd45020da644533b0849"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:53:36.000Z"
+  },
+  "Value": 71
+},{
+  "_id": {
+    "$oid": "6445fd4b020da644533b084b"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:53:46.000Z"
+  },
+  "Value": 59
+},{
+  "_id": {
+    "$oid": "6445fd56020da644533b084d"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:53:56.000Z"
+  },
+  "Value": 20
+},{
+  "_id": {
+    "$oid": "6445fd5e020da644533b084f"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:54:06.000Z"
+  },
+  "Value": 18
+},{
+  "_id": {
+    "$oid": "6445fd69020da644533b0851"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:54:15.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "6445fd71020da644533b0853"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:54:25.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "6445fd80020da644533b0855"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:54:36.000Z"
+  },
+  "Value": 40
+},{
+  "_id": {
+    "$oid": "6445fd86020da644533b0857"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:54:46.000Z"
+  },
+  "Value": 38
+},{
+  "_id": {
+    "$oid": "6445fd95020da644533b0859"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:54:56.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "6445fdce020da644533b085b"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:55:06.000Z"
+  },
+  "Value": 74
+},{
+  "_id": {
+    "$oid": "6445fde2bf70890bd82d5f14"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:56:15.000Z"
+  },
+  "Value": 85
+},{
+  "_id": {
+    "$oid": "6445fdf2bf70890bd82d5f16"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:56:26.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6445fdf9bf70890bd82d5f18"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:56:36.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "6445fe07bf70890bd82d5f1a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:56:46.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "6445fe0cbf70890bd82d5f1c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:56:56.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "6445fe13bf70890bd82d5f1e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:57:05.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "6445fe21bf70890bd82d5f20"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:57:15.000Z"
+  },
+  "Value": 7
+},{
+  "_id": {
+    "$oid": "6445fe2dbf70890bd82d5f22"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:57:26.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "6445fe35bf70890bd82d5f24"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:57:36.000Z"
+  },
+  "Value": 59
+},{
+  "_id": {
+    "$oid": "6445fe41bf70890bd82d5f26"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:57:46.000Z"
+  },
+  "Value": 89
+},{
+  "_id": {
+    "$oid": "6445fe43bf70890bd82d5f28"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:57:55.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "6445fe4dbf70890bd82d5f2a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:58:05.000Z"
+  },
+  "Value": 68
+},{
+  "_id": {
+    "$oid": "6445fe59bf70890bd82d5f2c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:58:15.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "6445fe63bf70890bd82d5f2e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:58:25.000Z"
+  },
+  "Value": 27
+},{
+  "_id": {
+    "$oid": "6445fe6cbf70890bd82d5f30"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:58:35.000Z"
+  },
+  "Value": 79
+},{
+  "_id": {
+    "$oid": "6445fe76bf70890bd82d5f32"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:58:46.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "6445fe86bf70890bd82d5f34"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:58:56.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6445fe8abf70890bd82d5f36"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:59:06.000Z"
+  },
+  "Value": 42
+},{
+  "_id": {
+    "$oid": "6445fe94bf70890bd82d5f38"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:59:15.000Z"
+  },
+  "Value": 8
+},{
+  "_id": {
+    "$oid": "6445fe9dbf70890bd82d5f3a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:59:25.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6445fea7bf70890bd82d5f3c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T03:59:35.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6445feb1bf70890bd82d5f3e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T03:59:45.000Z"
+  },
+  "Value": 93
+},{
+  "_id": {
+    "$oid": "6445febcbf70890bd82d5f40"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T03:59:55.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "6445fec6bf70890bd82d5f42"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:00:05.000Z"
+  },
+  "Value": 75
+},{
+  "_id": {
+    "$oid": "6445fed0bf70890bd82d5f44"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:00:16.000Z"
+  },
+  "Value": 59
+},{
+  "_id": {
+    "$oid": "6445fedabf70890bd82d5f46"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:00:25.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6445fee5bf70890bd82d5f48"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:00:35.000Z"
+  },
+  "Value": 39
+},{
+  "_id": {
+    "$oid": "6445feeebf70890bd82d5f4a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:00:45.000Z"
+  },
+  "Value": 81
+},{
+  "_id": {
+    "$oid": "6445fef8bf70890bd82d5f4c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:00:55.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "6445ff02bf70890bd82d5f4e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:01:05.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6445ff0cbf70890bd82d5f50"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:01:15.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6445ff16bf70890bd82d5f52"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:01:25.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "6445ff22bf70890bd82d5f54"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:01:36.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6445ff2bbf70890bd82d5f56"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:01:46.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6445ff3abf70890bd82d5f58"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:01:55.000Z"
+  },
+  "Value": 18
+},{
+  "_id": {
+    "$oid": "6445ff3dbf70890bd82d5f5a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:02:05.000Z"
+  },
+  "Value": 86
+},{
+  "_id": {
+    "$oid": "6445ff49bf70890bd82d5f5c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:02:15.000Z"
+  },
+  "Value": 58
+},{
+  "_id": {
+    "$oid": "6445ff53bf70890bd82d5f5e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:02:25.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "6445ff62bf70890bd82d5f60"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:02:35.000Z"
+  },
+  "Value": 16
+},{
+  "_id": {
+    "$oid": "6445ff66bf70890bd82d5f62"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:02:45.000Z"
+  },
+  "Value": 95
+},{
+  "_id": {
+    "$oid": "6445ff70bf70890bd82d5f64"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:02:56.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "6445ff7abf70890bd82d5f66"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:03:06.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "6445ff85bf70890bd82d5f68"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:03:16.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "6445ff90bf70890bd82d5f6a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:03:26.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "6445ff97bf70890bd82d5f6c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:03:35.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6445ffa1bf70890bd82d5f6e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:03:45.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6445ffafbf70890bd82d5f70"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:03:55.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "6445ffb8bf70890bd82d5f72"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:04:05.000Z"
+  },
+  "Value": 81
+},{
+  "_id": {
+    "$oid": "6445ffc0bf70890bd82d5f74"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:04:15.000Z"
+  },
+  "Value": 99
+},{
+  "_id": {
+    "$oid": "6445ffcdbf70890bd82d5f76"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:04:25.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "6445ffd8bf70890bd82d5f78"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:04:35.000Z"
+  },
+  "Value": 56
+},{
+  "_id": {
+    "$oid": "6445ffe0bf70890bd82d5f7a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:04:45.000Z"
+  },
+  "Value": 75
+},{
+  "_id": {
+    "$oid": "6445ffe7bf70890bd82d5f7c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:04:55.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "6446000dbf70890bd82d5f7e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:05:05.000Z"
+  },
+  "Value": 82
+},{
+  "_id": {
+    "$oid": "6446000fbf70890bd82d5f80"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:05:15.000Z"
+  },
+  "Value": 91
+},{
+  "_id": {
+    "$oid": "64460011bf70890bd82d5f82"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:05:25.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "64460014bf70890bd82d5f84"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:05:35.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6446001abf70890bd82d5f86"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:05:45.000Z"
+  },
+  "Value": 6
+},{
+  "_id": {
+    "$oid": "64460025bf70890bd82d5f88"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:05:55.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "64460030bf70890bd82d5f8a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:06:05.000Z"
+  },
+  "Value": 18
+},{
+  "_id": {
+    "$oid": "64460039bf70890bd82d5f8c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:06:15.000Z"
+  },
+  "Value": 9
+},{
+  "_id": {
+    "$oid": "64460043bf70890bd82d5f8e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:06:25.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "6446004cbf70890bd82d5f90"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:06:34.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "64460055bf70890bd82d5f92"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:06:44.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "6446007e8d5a310ea2028f64"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:07:25.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6446026e63a61972ae26758c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:15:35.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446027263a61972ae26758e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:15:35.000Z"
+  },
+  "Value": 11
+},{
+  "_id": {
+    "$oid": "6446027563a61972ae267590"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:15:44.000Z"
+  },
+  "Value": 85
+},{
+  "_id": {
+    "$oid": "6446027a63a61972ae267592"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:15:45.000Z"
+  },
+  "Value": "Don't wear mask\n"
+},{
+  "_id": {
+    "$oid": "6446027c63a61972ae267594"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:15:54.000Z"
+  },
+  "Value": 27
+},{
+  "_id": {
+    "$oid": "6446028063a61972ae267596"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:15:55.000Z"
+  },
+  "Value": "Don't wear mask\n"
+},{
+  "_id": {
+    "$oid": "6446028563a61972ae267598"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:04.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "6446028763a61972ae26759a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:05.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446029163a61972ae26759c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:14.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "6446029663a61972ae26759e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:15.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446029a63a61972ae2675a0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:24.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "6446029c63a61972ae2675a2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:25.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602a363a61972ae2675a4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:34.000Z"
+  },
+  "Value": 60
+},{
+  "_id": {
+    "$oid": "644602a663a61972ae2675a6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:36.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602ac63a61972ae2675a8"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:44.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "644602b363a61972ae2675aa"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:46.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602b663a61972ae2675ac"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:54.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "644602b863a61972ae2675ae"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:16:56.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602c063a61972ae2675b0"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:04.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "644602c263a61972ae2675b2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:06.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602ca63a61972ae2675b4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:14.000Z"
+  },
+  "Value": 41
+},{
+  "_id": {
+    "$oid": "644602cc63a61972ae2675b6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:16.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602d463a61972ae2675b8"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:24.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "644602d763a61972ae2675ba"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:26.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602e863a61972ae2675bc"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:34.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "644602eb63a61972ae2675be"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:47.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602ec63a61972ae2675c0"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:44.000Z"
+  },
+  "Value": 86
+},{
+  "_id": {
+    "$oid": "644602ef63a61972ae2675c2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:47.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602f263a61972ae2675c4"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:54.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "644602f663a61972ae2675c6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:17:57.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644602fc63a61972ae2675c8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:04.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6446030163a61972ae2675ca"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:07.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446030a63a61972ae2675cc"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:14.000Z"
+  },
+  "Value": 97
+},{
+  "_id": {
+    "$oid": "6446030d63a61972ae2675ce"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:17.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446031163a61972ae2675d0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:24.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6446031363a61972ae2675d2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:27.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "6446031c63a61972ae2675d4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:34.000Z"
+  },
+  "Value": 62
+},{
+  "_id": {
+    "$oid": "6446032663a61972ae2675d6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:44.000Z"
+  },
+  "Value": 4
+},{
+  "_id": {
+    "$oid": "6446032a63a61972ae2675d8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:48.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446033063a61972ae2675da"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:53.000Z"
+  },
+  "Value": 30
+},{
+  "_id": {
+    "$oid": "6446033563a61972ae2675dc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:18:58.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446033b63a61972ae2675de"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:04.000Z"
+  },
+  "Value": 81
+},{
+  "_id": {
+    "$oid": "6446033d63a61972ae2675e0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:08.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446034363a61972ae2675e2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:14.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "6446034663a61972ae2675e4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:18.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446034d63a61972ae2675e6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:24.000Z"
+  },
+  "Value": 13
+},{
+  "_id": {
+    "$oid": "6446035a63a61972ae2675e8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:28.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446035c63a61972ae2675ea"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:34.000Z"
+  },
+  "Value": 33
+},{
+  "_id": {
+    "$oid": "6446035f63a61972ae2675ec"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:38.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "6446036163a61972ae2675ee"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:44.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6446036663a61972ae2675f0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:48.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "6446036b63a61972ae2675f2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:54.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6446036f63a61972ae2675f4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:19:58.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "6446037763a61972ae2675f6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:03.000Z"
+  },
+  "Value": 40
+},{
+  "_id": {
+    "$oid": "6446037963a61972ae2675f8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:08.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446037e63a61972ae2675fa"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:13.000Z"
+  },
+  "Value": 0
+},{
+  "_id": {
+    "$oid": "6446038563a61972ae2675fc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:18.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446038863a61972ae2675fe"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:24.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "6446038d63a61972ae267600"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:29.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446039263a61972ae267602"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:34.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6446039d63a61972ae267604"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:39.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603a863a61972ae267606"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:44.000Z"
+  },
+  "Value": 42
+},{
+  "_id": {
+    "$oid": "644603ad63a61972ae267608"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:59.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603b163a61972ae26760a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:54.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "644603b463a61972ae26760c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:20:59.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603b663a61972ae26760e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:04.000Z"
+  },
+  "Value": 43
+},{
+  "_id": {
+    "$oid": "644603ba63a61972ae267610"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:09.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603be63a61972ae267612"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:14.000Z"
+  },
+  "Value": 11
+},{
+  "_id": {
+    "$oid": "644603c663a61972ae267614"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:24.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "644603ca63a61972ae267616"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:29.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603ce63a61972ae267618"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:33.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "644603d963a61972ae26761a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:39.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603df63a61972ae26761c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:43.000Z"
+  },
+  "Value": 81
+},{
+  "_id": {
+    "$oid": "644603e363a61972ae26761e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:49.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603e563a61972ae267620"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:21:53.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "644603e863a61972ae267622"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:00.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603ee63a61972ae267624"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:04.000Z"
+  },
+  "Value": 40
+},{
+  "_id": {
+    "$oid": "644603f363a61972ae267626"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:10.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "644603f963a61972ae267628"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:14.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "644603fe63a61972ae26762a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:20.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446040f63a61972ae26762c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:24.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "6446041363a61972ae26762e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:40.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446041663a61972ae267630"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:34.000Z"
+  },
+  "Value": 42
+},{
+  "_id": {
+    "$oid": "6446041863a61972ae267632"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:40.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446041b63a61972ae267634"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:44.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "6446042063a61972ae267636"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:50.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446042463a61972ae267638"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:22:53.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6446042b63a61972ae26763a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:00.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446043863a61972ae26763c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:03.000Z"
+  },
+  "Value": 83
+},{
+  "_id": {
+    "$oid": "6446043a63a61972ae26763e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:20.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446043d63a61972ae267640"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:13.000Z"
+  },
+  "Value": 75
+},{
+  "_id": {
+    "$oid": "6446043f63a61972ae267642"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:20.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446044463a61972ae267644"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:23.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "6446044663a61972ae267646"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:31.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446044863a61972ae267648"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:34.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "6446044d63a61972ae26764a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:41.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446045063a61972ae26764c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:44.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "6446045763a61972ae26764e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:51.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446045a63a61972ae267650"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:23:54.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "6446046163a61972ae267652"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:01.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446047d63a61972ae267654"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:03.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "6446047f63a61972ae267656"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:31.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446048663a61972ae267658"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:13.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "6446048863a61972ae26765a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:31.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446049063a61972ae26765c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:23.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6446049463a61972ae26765e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:52.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446049863a61972ae267660"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:33.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "6446049a63a61972ae267662"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:52.000Z"
+  },
+  "Value": "Wear Mask\n"
+},{
+  "_id": {
+    "$oid": "6446049c63a61972ae267664"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:24:44.000Z"
+  },
+  "Value": 18
+},{
+  "_id": {
+    "$oid": "644604a163a61972ae267666"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:25:02.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460c51eae51d95a6ab8848"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:57:51.000Z"
+  },
+  "Value": 78
+},{
+  "_id": {
+    "$oid": "64460c53eae51d95a6ab884a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:57:53.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "64460c5aeae51d95a6ab884c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:02.000Z"
+  },
+  "Value": "Don't wear mask\n"
+},{
+  "_id": {
+    "$oid": "64460c5ceae51d95a6ab884e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:03.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64460c65eae51d95a6ab8850"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:12.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460c67eae51d95a6ab8852"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:13.000Z"
+  },
+  "Value": 70
+},{
+  "_id": {
+    "$oid": "64460c6feae51d95a6ab8854"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:23.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460c71eae51d95a6ab8856"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:23.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64460c79eae51d95a6ab8858"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:33.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460c7beae51d95a6ab885a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:33.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64460c83eae51d95a6ab885c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:43.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460c86eae51d95a6ab885e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:43.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64460c8deae51d95a6ab8860"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:53.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460c8feae51d95a6ab8862"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:58:53.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "64460c97eae51d95a6ab8864"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:03.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460c99eae51d95a6ab8866"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:03.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64460ca1eae51d95a6ab8868"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:13.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460ca3eae51d95a6ab886a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:13.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64460cabeae51d95a6ab886c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:23.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460cadeae51d95a6ab886e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:23.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "64460cb6eae51d95a6ab8870"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:33.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460cb7eae51d95a6ab8872"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:34.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64460cc0eae51d95a6ab8874"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:43.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460cc2eae51d95a6ab8876"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:44.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "64460cc9eae51d95a6ab8878"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:53.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "64460ccbeae51d95a6ab887a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T04:59:55.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460cd3eae51d95a6ab887c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:03.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "64460cd6eae51d95a6ab887e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:05.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460cdeeae51d95a6ab8880"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:13.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "64460ce0eae51d95a6ab8882"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:16.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460ce7eae51d95a6ab8884"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:23.000Z"
+  },
+  "Value": 79
+},{
+  "_id": {
+    "$oid": "64460ceaeae51d95a6ab8886"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:26.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460cf1eae51d95a6ab8888"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:33.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64460cf4eae51d95a6ab888a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:36.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460cfceae51d95a6ab888c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:43.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "64460cfeeae51d95a6ab888e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:46.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d06eae51d95a6ab8890"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:53.000Z"
+  },
+  "Value": 99
+},{
+  "_id": {
+    "$oid": "64460d08eae51d95a6ab8892"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:00:56.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d0feae51d95a6ab8894"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:03.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "64460d13eae51d95a6ab8896"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:06.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d1aeae51d95a6ab8898"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:13.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "64460d1deae51d95a6ab889a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:16.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d23eae51d95a6ab889c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:22.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64460d27eae51d95a6ab889e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:27.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d2deae51d95a6ab88a0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:33.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "64460d31eae51d95a6ab88a2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:37.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d37eae51d95a6ab88a4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:43.000Z"
+  },
+  "Value": 76
+},{
+  "_id": {
+    "$oid": "64460d3beae51d95a6ab88a6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:47.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d41eae51d95a6ab88a8"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:53.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "64460d45eae51d95a6ab88aa"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:01:57.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d4beae51d95a6ab88ac"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:02:03.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64460d4feae51d95a6ab88ae"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:02:07.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "64460d55eae51d95a6ab88b0"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:02:13.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64460d5aeae51d95a6ab88b2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:02:17.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "644616279781063190ced99f"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:39:50.000Z"
+  },
+  "Value": 42
+},{
+  "_id": {
+    "$oid": "6446162a9781063190ced9a1"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:39:50.000Z"
+  },
+  "Value": 57
+},{
+  "_id": {
+    "$oid": "644616339781063190ced9a3"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:40:00.000Z"
+  },
+  "Value": "Nobody\n"
+},{
+  "_id": {
+    "$oid": "6446163f9781063190ced9a5"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:40:00.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "6446164f9781063190ced9a7"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:40:10.000Z"
+  },
+  "Value": 43
+},{
+  "_id": {
+    "$oid": "6446165d9781063190ced9a9"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:40:30.000Z"
+  },
+  "Value": "Wear mask\n"
+},{
+  "_id": {
+    "$oid": "644616639781063190ced9ab"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:40:21.000Z"
+  },
+  "Value": 11
+},{
+  "_id": {
+    "$oid": "644616669781063190ced9ad"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:40:29.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "644618ba446e5e45bc959ba2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:50:28.000Z"
+  },
+  "Value": 74
+},{
+  "_id": {
+    "$oid": "644618c2446e5e45bc959ba4"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:50:29.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "644618d7446e5e45bc959ba6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:09.000Z"
+  },
+  "Value": "Wear mask\n"
+},{
+  "_id": {
+    "$oid": "644618da446e5e45bc959ba8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:10.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "644618ed446e5e45bc959baa"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:29.000Z"
+  },
+  "Value": "Wear mask\n"
+},{
+  "_id": {
+    "$oid": "644618f3446e5e45bc959bac"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:20.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "644618f8446e5e45bc959bae"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:49.000Z"
+  },
+  "Value": "Wear mask\n"
+},{
+  "_id": {
+    "$oid": "64461900446e5e45bc959bb0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:30.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64461914446e5e45bc959bb2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:49.000Z"
+  },
+  "Value": "Wear mask\n"
+},{
+  "_id": {
+    "$oid": "6446191a446e5e45bc959bb4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:51:40.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64461a53e632c48d470a6215"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T05:57:28.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64461a5ae632c48d470a6217"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:57:37.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461a5fe632c48d470a6219"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T05:57:40.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64461a63e632c48d470a621b"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T05:57:47.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461a89e632c48d470a621d"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T05:57:49.000Z"
+  },
+  "Value": 79
+},{
+  "_id": {
+    "$oid": "64461b5f847412b0878fc112"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:01:59.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461b69847412b0878fc114"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:02:08.000Z"
+  },
+  "Value": 36
+},{
+  "_id": {
+    "$oid": "64461b7e847412b0878fc116"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:02:19.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461babd08e07c62cff908a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:03:22.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64461badd08e07c62cff908c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:03:24.000Z"
+  },
+  "Value": 70
+},{
+  "_id": {
+    "$oid": "64461bb4d08e07c62cff908e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:03:32.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461bb7d08e07c62cff9090"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:03:35.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64461bc1d08e07c62cff9092"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:03:45.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64461bc8d08e07c62cff9094"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:03:52.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461bcbd08e07c62cff9096"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:03:55.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64461bd2d08e07c62cff9098"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:02.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461bd5d08e07c62cff909a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:05.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "64461bddd08e07c62cff909c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:12.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461bdfd08e07c62cff909e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:15.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64461be6d08e07c62cff90a0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:22.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461be9d08e07c62cff90a2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:24.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64461bf1d08e07c62cff90a4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:32.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461bf3d08e07c62cff90a6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:34.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "64461bfbd08e07c62cff90a8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:42.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461bfdd08e07c62cff90aa"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:44.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64461c05d08e07c62cff90ac"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:52.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c07d08e07c62cff90ae"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:04:54.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "64461c0fd08e07c62cff90b0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:02.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c11d08e07c62cff90b2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:05.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "64461c19d08e07c62cff90b4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:13.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c1bd08e07c62cff90b6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:15.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "64461c23d08e07c62cff90b8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:23.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c25d08e07c62cff90ba"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:25.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "64461c2dd08e07c62cff90bc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:33.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c2fd08e07c62cff90be"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:35.000Z"
+  },
+  "Value": 79
+},{
+  "_id": {
+    "$oid": "64461c38d08e07c62cff90c0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:43.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c3ad08e07c62cff90c2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:45.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64461c41d08e07c62cff90c4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:53.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c43d08e07c62cff90c6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:05:54.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "64461c4bd08e07c62cff90c8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:03.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c4dd08e07c62cff90ca"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:04.000Z"
+  },
+  "Value": 99
+},{
+  "_id": {
+    "$oid": "64461c56d08e07c62cff90cc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:13.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c58d08e07c62cff90ce"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:14.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "64461c60d08e07c62cff90d0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:23.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461c62d08e07c62cff90d2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:24.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "64461c6ad08e07c62cff90d4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:33.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461c6cd08e07c62cff90d6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:34.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64461c74d08e07c62cff90d8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:43.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c76d08e07c62cff90da"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:44.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "64461c7ed08e07c62cff90dc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:54.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461c80d08e07c62cff90de"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:06:55.000Z"
+  },
+  "Value": 76
+},{
+  "_id": {
+    "$oid": "64461c89d08e07c62cff90e0"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:05.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "64461c92d08e07c62cff90e2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:14.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461c94d08e07c62cff90e4"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:15.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64461c9cd08e07c62cff90e6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:24.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461c9ed08e07c62cff90e8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:24.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64461ca7d08e07c62cff90ea"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:34.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461ca9d08e07c62cff90ec"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:34.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "64461cb1d08e07c62cff90ee"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:44.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461cb3d08e07c62cff90f0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:44.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "64461cbbd08e07c62cff90f2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:54.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461cbdd08e07c62cff90f4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:07:55.000Z"
+  },
+  "Value": 46
+},{
+  "_id": {
+    "$oid": "64461cc5d08e07c62cff90f6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:04.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461cc7d08e07c62cff90f8"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:05.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "64461ccfd08e07c62cff90fa"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:15.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461cd1d08e07c62cff90fc"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:15.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "64461cd9d08e07c62cff90fe"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:25.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461cdbd08e07c62cff9100"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:25.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64461ce3d08e07c62cff9102"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:35.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461ce5d08e07c62cff9104"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:35.000Z"
+  },
+  "Value": 66
+},{
+  "_id": {
+    "$oid": "64461cecd08e07c62cff9106"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:44.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "64461ceed08e07c62cff9108"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:45.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461cf6d08e07c62cff910a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:54.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "64461cf8d08e07c62cff910c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:08:55.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461d00d08e07c62cff910e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:09:04.000Z"
+  },
+  "Value": 7
+},{
+  "_id": {
+    "$oid": "64461d02d08e07c62cff9110"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:09:05.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461d0ad08e07c62cff9112"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:09:14.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "64461d0cd08e07c62cff9114"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:09:15.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461d14d08e07c62cff9116"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:09:24.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "64461d17d08e07c62cff9118"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:09:25.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461d3dd08e07c62cff911a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:10:05.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64461d3fd08e07c62cff911c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:10:06.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461d794afc2a9e06d1b792"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:04.000Z"
+  },
+  "Value": 70
+},{
+  "_id": {
+    "$oid": "64461d824afc2a9e06d1b794"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:14.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461d844afc2a9e06d1b796"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:14.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64461d8b4afc2a9e06d1b798"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:22.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64461d8d4afc2a9e06d1b79a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:24.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461d954afc2a9e06d1b79c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:32.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64461d974afc2a9e06d1b79e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:34.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461d9f4afc2a9e06d1b7a0"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:42.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "64461da14afc2a9e06d1b7a2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:44.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461da94afc2a9e06d1b7a4"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:53.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64461dab4afc2a9e06d1b7a6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:11:55.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461db34afc2a9e06d1b7a8"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:03.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64461db54afc2a9e06d1b7aa"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:05.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461dbd4afc2a9e06d1b7ac"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:13.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "64461dbf4afc2a9e06d1b7ae"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:15.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461dc64afc2a9e06d1b7b0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:22.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64461dc94afc2a9e06d1b7b2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:25.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461dd04afc2a9e06d1b7b4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:32.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "64461dd34afc2a9e06d1b7b6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:35.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461dda4afc2a9e06d1b7b8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:42.000Z"
+  },
+  "Value": 26
+},{
+  "_id": {
+    "$oid": "64461ddd4afc2a9e06d1b7ba"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:45.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461de44afc2a9e06d1b7bc"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:52.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "64461de84afc2a9e06d1b7be"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:12:55.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461e064afc2a9e06d1b7c0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:13:26.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461e0d4afc2a9e06d1b7c2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:13:33.000Z"
+  },
+  "Value": 48
+},{
+  "_id": {
+    "$oid": "64461e104afc2a9e06d1b7c4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:13:36.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461e164afc2a9e06d1b7c6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:13:42.000Z"
+  },
+  "Value": 99
+},{
+  "_id": {
+    "$oid": "64461e1a4afc2a9e06d1b7c8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:13:46.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461e204afc2a9e06d1b7ca"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:13:52.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "64461e244afc2a9e06d1b7cc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:13:56.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461e2a4afc2a9e06d1b7ce"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:02.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "64461e2e4afc2a9e06d1b7d0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:06.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461e344afc2a9e06d1b7d2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:12.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64461e384afc2a9e06d1b7d4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:16.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461e3e4afc2a9e06d1b7d6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:22.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "64461e434afc2a9e06d1b7d8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:26.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461e494afc2a9e06d1b7da"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:32.000Z"
+  },
+  "Value": 76
+},{
+  "_id": {
+    "$oid": "64461e4d4afc2a9e06d1b7dc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:36.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461e534afc2a9e06d1b7de"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:42.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "64461e574afc2a9e06d1b7e0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:14:46.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461e6b4afc2a9e06d1b7e2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:15:07.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461e704afc2a9e06d1b7e4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:15:12.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "64461eb8a7b1df78a980778a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:16:23.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "64461ec2a7b1df78a980778c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:16:34.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461ec4a7b1df78a980778e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:16:34.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64461ecba7b1df78a9807790"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:16:43.000Z"
+  },
+  "Value": 70
+},{
+  "_id": {
+    "$oid": "64461ecda7b1df78a9807792"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:16:44.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461ed4a7b1df78a9807794"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:16:52.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64461ed6a7b1df78a9807796"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:16:54.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461edea7b1df78a9807798"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:02.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64461ee1a7b1df78a980779a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:04.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461ee8a7b1df78a980779c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:12.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64461ef2a7b1df78a980779e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:22.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "64461ef5a7b1df78a98077a0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:24.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461efda7b1df78a98077a2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:32.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64461effa7b1df78a98077a4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:34.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461f07a7b1df78a98077a6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:42.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64461f09a7b1df78a98077a8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:44.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461f11a7b1df78a98077aa"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:53.000Z"
+  },
+  "Value": 52
+},{
+  "_id": {
+    "$oid": "64461f13a7b1df78a98077ac"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:17:55.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461f1ba7b1df78a98077ae"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:18:03.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64461f1da7b1df78a98077b0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:18:05.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461f24a7b1df78a98077b2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:18:12.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "64461f27a7b1df78a98077b4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:18:15.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461f769fd606c407a087e0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:19:33.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "64461f7f9fd606c407a087e2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:19:43.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461f819fd606c407a087e4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:19:43.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "64461f899fd606c407a087e6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:19:52.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64461f8a9fd606c407a087e8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:19:53.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461f939fd606c407a087ea"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:02.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "64461f959fd606c407a087ec"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:03.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461f9d9fd606c407a087ee"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:12.000Z"
+  },
+  "Value": 76
+},{
+  "_id": {
+    "$oid": "64461f9f9fd606c407a087f0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:13.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461fa79fd606c407a087f2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:22.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "64461fa99fd606c407a087f4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:24.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461fb09fd606c407a087f6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:32.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64461fb29fd606c407a087f8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:34.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461fba9fd606c407a087fa"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:42.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64461fbc9fd606c407a087fc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:44.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64461fc49fd606c407a087fe"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:52.000Z"
+  },
+  "Value": 88
+},{
+  "_id": {
+    "$oid": "64461fc69fd606c407a08800"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:20:54.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461fce9fd606c407a08802"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:02.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "64461fd09fd606c407a08804"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:04.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461fd89fd606c407a08806"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:12.000Z"
+  },
+  "Value": 46
+},{
+  "_id": {
+    "$oid": "64461fda9fd606c407a08808"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:14.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461fe29fd606c407a0880a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:22.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "64461fe49fd606c407a0880c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:24.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461fec9fd606c407a0880e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:32.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "64461fef9fd606c407a08810"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:34.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64461ff69fd606c407a08812"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:42.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64461ff89fd606c407a08814"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:44.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620019fd606c407a08816"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:52.000Z"
+  },
+  "Value": 66
+},{
+  "_id": {
+    "$oid": "644620039fd606c407a08818"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:21:54.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446200a9fd606c407a0881a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:01.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "6446200d9fd606c407a0881c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:04.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620149fd606c407a0881e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:12.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "644620179fd606c407a08820"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:15.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446201e9fd606c407a08822"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:22.000Z"
+  },
+  "Value": 7
+},{
+  "_id": {
+    "$oid": "644620219fd606c407a08824"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:25.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644620289fd606c407a08826"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:32.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "6446202b9fd606c407a08828"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:35.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620329fd606c407a0882a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:42.000Z"
+  },
+  "Value": 44
+},{
+  "_id": {
+    "$oid": "644620359fd606c407a0882c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:45.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446203c9fd606c407a0882e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:52.000Z"
+  },
+  "Value": 35
+},{
+  "_id": {
+    "$oid": "644620409fd606c407a08830"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:22:55.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620469fd606c407a08832"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:02.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "6446204a9fd606c407a08834"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:06.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620509fd606c407a08836"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:12.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "644620549fd606c407a08838"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:16.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6446205a9fd606c407a0883a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:22.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "6446205e9fd606c407a0883c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:26.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644620649fd606c407a0883e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:32.000Z"
+  },
+  "Value": 21
+},{
+  "_id": {
+    "$oid": "644620689fd606c407a08840"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:36.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446206e9fd606c407a08842"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:42.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "644620729fd606c407a08844"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:46.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644620789fd606c407a08846"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:52.000Z"
+  },
+  "Value": 94
+},{
+  "_id": {
+    "$oid": "6446207d9fd606c407a08848"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:23:56.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644620839fd606c407a0884a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:02.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "644620879fd606c407a0884c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:06.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6446208c9fd606c407a0884e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:11.000Z"
+  },
+  "Value": 62
+},{
+  "_id": {
+    "$oid": "644620969fd606c407a08850"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:21.000Z"
+  },
+  "Value": 53
+},{
+  "_id": {
+    "$oid": "6446209b9fd606c407a08852"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:27.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644620a09fd606c407a08854"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:32.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "644620a59fd606c407a08856"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:37.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644620aa9fd606c407a08858"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:42.000Z"
+  },
+  "Value": 81
+},{
+  "_id": {
+    "$oid": "644620af9fd606c407a0885a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:47.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644620b49fd606c407a0885c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:52.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "644620b99fd606c407a0885e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:24:57.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620be9fd606c407a08860"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:02.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "644620c39fd606c407a08862"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:07.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620c89fd606c407a08864"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:12.000Z"
+  },
+  "Value": 71
+},{
+  "_id": {
+    "$oid": "644620cd9fd606c407a08866"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:17.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620d19fd606c407a08868"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:21.000Z"
+  },
+  "Value": 95
+},{
+  "_id": {
+    "$oid": "644620d89fd606c407a0886a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:27.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620db9fd606c407a0886c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:31.000Z"
+  },
+  "Value": 33
+},{
+  "_id": {
+    "$oid": "644620e29fd606c407a0886e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:37.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620e69fd606c407a08870"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:41.000Z"
+  },
+  "Value": 60
+},{
+  "_id": {
+    "$oid": "644620ec9fd606c407a08872"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:48.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620f09fd606c407a08874"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:52.000Z"
+  },
+  "Value": 93
+},{
+  "_id": {
+    "$oid": "644620f69fd606c407a08876"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:25:58.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644620fa9fd606c407a08878"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:02.000Z"
+  },
+  "Value": 30
+},{
+  "_id": {
+    "$oid": "644621009fd606c407a0887a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:08.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644621049fd606c407a0887c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:12.000Z"
+  },
+  "Value": 11
+},{
+  "_id": {
+    "$oid": "6446210a9fd606c407a0887e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:18.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6446210e9fd606c407a08880"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:22.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "644621149fd606c407a08882"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:28.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621189fd606c407a08884"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:32.000Z"
+  },
+  "Value": 20
+},{
+  "_id": {
+    "$oid": "6446211e9fd606c407a08886"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:38.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621229fd606c407a08888"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:42.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "644621289fd606c407a0888a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:48.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446212b9fd606c407a0888c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:51.000Z"
+  },
+  "Value": 94
+},{
+  "_id": {
+    "$oid": "644621339fd606c407a0888e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:26:58.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621369fd606c407a08890"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:01.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "6446213d9fd606c407a08892"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:08.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621409fd606c407a08894"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:11.000Z"
+  },
+  "Value": 86
+},{
+  "_id": {
+    "$oid": "644621479fd606c407a08896"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:19.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446214a9fd606c407a08898"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:22.000Z"
+  },
+  "Value": 69
+},{
+  "_id": {
+    "$oid": "644621519fd606c407a0889a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:29.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621549fd606c407a0889c"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:32.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "6446215e9fd606c407a0889e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:42.000Z"
+  },
+  "Value": 42
+},{
+  "_id": {
+    "$oid": "644621659fd606c407a088a0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:49.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621689fd606c407a088a2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:52.000Z"
+  },
+  "Value": 3
+},{
+  "_id": {
+    "$oid": "6446216f9fd606c407a088a4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:27:59.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621719fd606c407a088a6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:01.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "644621799fd606c407a088a8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:09.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446217b9fd606c407a088aa"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:11.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "644621849fd606c407a088ac"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:19.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621859fd606c407a088ae"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:21.000Z"
+  },
+  "Value": 96
+},{
+  "_id": {
+    "$oid": "6446218e9fd606c407a088b0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:29.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621909fd606c407a088b2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:31.000Z"
+  },
+  "Value": 16
+},{
+  "_id": {
+    "$oid": "644621989fd606c407a088b4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:39.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "6446219a9fd606c407a088b6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:41.000Z"
+  },
+  "Value": 76
+},{
+  "_id": {
+    "$oid": "644621a29fd606c407a088b8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:50.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621a49fd606c407a088ba"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:28:52.000Z"
+  },
+  "Value": 98
+},{
+  "_id": {
+    "$oid": "644621ac9fd606c407a088bc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:00.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621ae9fd606c407a088be"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:02.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "644621b69fd606c407a088c0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:10.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621b89fd606c407a088c2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:11.000Z"
+  },
+  "Value": 41
+},{
+  "_id": {
+    "$oid": "644621c09fd606c407a088c4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:20.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621c29fd606c407a088c6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:21.000Z"
+  },
+  "Value": 96
+},{
+  "_id": {
+    "$oid": "644621cb9fd606c407a088c8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:30.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621cd9fd606c407a088ca"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:31.000Z"
+  },
+  "Value": 17
+},{
+  "_id": {
+    "$oid": "644621d59fd606c407a088cc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:41.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "644621d79fd606c407a088ce"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:42.000Z"
+  },
+  "Value": 41
+},{
+  "_id": {
+    "$oid": "644621df9fd606c407a088d0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T06:29:51.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462c2b3ea66d6b71dec23e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:13:45.000Z"
+  },
+  "Value": 73
+},{
+  "_id": {
+    "$oid": "64462c2d3ea66d6b71dec240"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:13:45.000Z"
+  },
+  "Value": 30
+},{
+  "_id": {
+    "$oid": "64462c2f3ea66d6b71dec242"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:13:48.000Z"
+  },
+  "Value": 90
+},{
+  "_id": {
+    "$oid": "64462c343ea66d6b71dec244"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:13:56.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462c363ea66d6b71dec246"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:13:58.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64462c3f3ea66d6b71dec248"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:06.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462c413ea66d6b71dec24a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:07.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "64462c493ea66d6b71dec24c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:17.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462c4b3ea66d6b71dec24e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:17.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64462c533ea66d6b71dec250"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:27.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462c553ea66d6b71dec252"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:28.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "64462c5e3ea66d6b71dec254"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:37.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462c603ea66d6b71dec256"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:38.000Z"
+  },
+  "Value": 39
+},{
+  "_id": {
+    "$oid": "64462c683ea66d6b71dec258"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:47.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462c6a3ea66d6b71dec25a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:48.000Z"
+  },
+  "Value": 50
+},{
+  "_id": {
+    "$oid": "64462c723ea66d6b71dec25c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:58.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462c743ea66d6b71dec25e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:14:58.000Z"
+  },
+  "Value": 13
+},{
+  "_id": {
+    "$oid": "64462c7c3ea66d6b71dec260"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:08.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462c7e3ea66d6b71dec262"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:08.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "64462c863ea66d6b71dec264"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:18.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462c883ea66d6b71dec266"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:18.000Z"
+  },
+  "Value": 58
+},{
+  "_id": {
+    "$oid": "64462c913ea66d6b71dec268"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:28.000Z"
+  },
+  "Value": 13
+},{
+  "_id": {
+    "$oid": "64462c9a3ea66d6b71dec26a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:38.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462c9c3ea66d6b71dec26c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:38.000Z"
+  },
+  "Value": 10
+},{
+  "_id": {
+    "$oid": "64462ca53ea66d6b71dec26e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:48.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462ca73ea66d6b71dec270"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:48.000Z"
+  },
+  "Value": 55
+},{
+  "_id": {
+    "$oid": "64462cad3ea66d6b71dec272"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:57.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64462cb03ea66d6b71dec274"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:15:58.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462cb83ea66d6b71dec276"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:07.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64462cb93ea66d6b71dec278"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:08.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462cc23ea66d6b71dec27a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:17.000Z"
+  },
+  "Value": 79
+},{
+  "_id": {
+    "$oid": "64462cc43ea66d6b71dec27c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:19.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462ccc3ea66d6b71dec27e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:27.000Z"
+  },
+  "Value": 33
+},{
+  "_id": {
+    "$oid": "64462cd63ea66d6b71dec280"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:38.000Z"
+  },
+  "Value": 41
+},{
+  "_id": {
+    "$oid": "64462cd93ea66d6b71dec282"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:39.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462ce03ea66d6b71dec284"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:48.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64462ce33ea66d6b71dec286"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:49.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462cea3ea66d6b71dec288"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:58.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64462cec3ea66d6b71dec28a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:16:59.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462cf43ea66d6b71dec28c"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:08.000Z"
+  },
+  "Value": 13
+},{
+  "_id": {
+    "$oid": "64462cf73ea66d6b71dec28e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:09.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462cfe3ea66d6b71dec290"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:17.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "64462d003ea66d6b71dec292"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:19.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462d083ea66d6b71dec294"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:27.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64462d0a3ea66d6b71dec296"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:29.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462d123ea66d6b71dec298"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:37.000Z"
+  },
+  "Value": 89
+},{
+  "_id": {
+    "$oid": "64462d143ea66d6b71dec29a"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:40.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462d1c3ea66d6b71dec29c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:48.000Z"
+  },
+  "Value": 49
+},{
+  "_id": {
+    "$oid": "64462d1e3ea66d6b71dec29e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:50.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462d273ea66d6b71dec2a0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:17:58.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "64462d293ea66d6b71dec2a2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:00.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462d303ea66d6b71dec2a4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:08.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64462d323ea66d6b71dec2a6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:10.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462d3a3ea66d6b71dec2a8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:18.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64462d3d3ea66d6b71dec2aa"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:20.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d443ea66d6b71dec2ac"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:27.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "64462d473ea66d6b71dec2ae"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:30.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d4d3ea66d6b71dec2b0"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:37.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64462d573ea66d6b71dec2b2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:47.000Z"
+  },
+  "Value": 12
+},{
+  "_id": {
+    "$oid": "64462d5b3ea66d6b71dec2b4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:50.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d623ea66d6b71dec2b6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:18:57.000Z"
+  },
+  "Value": 31
+},{
+  "_id": {
+    "$oid": "64462d653ea66d6b71dec2b8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:00.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d6c3ea66d6b71dec2ba"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:07.000Z"
+  },
+  "Value": 80
+},{
+  "_id": {
+    "$oid": "64462d6f3ea66d6b71dec2bc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:11.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d763ea66d6b71dec2be"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:18.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "64462d793ea66d6b71dec2c0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:21.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d803ea66d6b71dec2c2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:28.000Z"
+  },
+  "Value": 33
+},{
+  "_id": {
+    "$oid": "64462d833ea66d6b71dec2c4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:31.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d893ea66d6b71dec2c6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:37.000Z"
+  },
+  "Value": 67
+},{
+  "_id": {
+    "$oid": "64462d8d3ea66d6b71dec2c8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:41.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d933ea66d6b71dec2ca"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:47.000Z"
+  },
+  "Value": 8
+},{
+  "_id": {
+    "$oid": "64462d973ea66d6b71dec2cc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:51.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462d9d3ea66d6b71dec2ce"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:19:57.000Z"
+  },
+  "Value": 18
+},{
+  "_id": {
+    "$oid": "64462da13ea66d6b71dec2d0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:01.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462da73ea66d6b71dec2d2"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:07.000Z"
+  },
+  "Value": 83
+},{
+  "_id": {
+    "$oid": "64462dac3ea66d6b71dec2d4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:11.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462db23ea66d6b71dec2d6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:17.000Z"
+  },
+  "Value": 98
+},{
+  "_id": {
+    "$oid": "64462db63ea66d6b71dec2d8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:21.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462dbc3ea66d6b71dec2da"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:27.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64462dc03ea66d6b71dec2dc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:31.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462dc63ea66d6b71dec2de"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:37.000Z"
+  },
+  "Value": 36
+},{
+  "_id": {
+    "$oid": "64462dca3ea66d6b71dec2e0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:42.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462dd03ea66d6b71dec2e2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:48.000Z"
+  },
+  "Value": 64
+},{
+  "_id": {
+    "$oid": "64462dd53ea66d6b71dec2e4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:52.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462dd93ea66d6b71dec2e6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:20:57.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "64462ddf3ea66d6b71dec2e8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:02.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462de43ea66d6b71dec2ea"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:07.000Z"
+  },
+  "Value": 15
+},{
+  "_id": {
+    "$oid": "64462de93ea66d6b71dec2ec"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:13.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462dee3ea66d6b71dec2ee"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:18.000Z"
+  },
+  "Value": 13
+},{
+  "_id": {
+    "$oid": "64462df33ea66d6b71dec2f0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:23.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462df73ea66d6b71dec2f2"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:27.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "64462dfe3ea66d6b71dec2f4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:33.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e023ea66d6b71dec2f6"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:37.000Z"
+  },
+  "Value": 37
+},{
+  "_id": {
+    "$oid": "64462e083ea66d6b71dec2f8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:43.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e0c3ea66d6b71dec2fa"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:47.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64462e123ea66d6b71dec2fc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:53.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e163ea66d6b71dec2fe"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:21:57.000Z"
+  },
+  "Value": 33
+},{
+  "_id": {
+    "$oid": "64462e1c3ea66d6b71dec300"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:03.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e203ea66d6b71dec302"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:07.000Z"
+  },
+  "Value": 86
+},{
+  "_id": {
+    "$oid": "64462e263ea66d6b71dec304"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:14.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e2a3ea66d6b71dec306"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:18.000Z"
+  },
+  "Value": 47
+},{
+  "_id": {
+    "$oid": "64462e303ea66d6b71dec308"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:24.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e333ea66d6b71dec30a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:27.000Z"
+  },
+  "Value": 24
+},{
+  "_id": {
+    "$oid": "64462e3a3ea66d6b71dec30c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:34.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e3d3ea66d6b71dec30e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:37.000Z"
+  },
+  "Value": 41
+},{
+  "_id": {
+    "$oid": "64462e443ea66d6b71dec310"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:44.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e473ea66d6b71dec312"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:47.000Z"
+  },
+  "Value": 89
+},{
+  "_id": {
+    "$oid": "64462e4f3ea66d6b71dec314"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:54.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e513ea66d6b71dec316"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:22:57.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "64462e593ea66d6b71dec318"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:04.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e5b3ea66d6b71dec31a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:07.000Z"
+  },
+  "Value": 56
+},{
+  "_id": {
+    "$oid": "64462e633ea66d6b71dec31c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:14.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e663ea66d6b71dec31e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:17.000Z"
+  },
+  "Value": 79
+},{
+  "_id": {
+    "$oid": "64462e6d3ea66d6b71dec320"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:25.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e703ea66d6b71dec322"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:28.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "64462e773ea66d6b71dec324"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:35.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e793ea66d6b71dec326"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:37.000Z"
+  },
+  "Value": 72
+},{
+  "_id": {
+    "$oid": "64462e813ea66d6b71dec328"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:45.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e833ea66d6b71dec32a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:47.000Z"
+  },
+  "Value": 85
+},{
+  "_id": {
+    "$oid": "64462e8b3ea66d6b71dec32c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:55.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e8e3ea66d6b71dec32e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:23:57.000Z"
+  },
+  "Value": 19
+},{
+  "_id": {
+    "$oid": "64462e963ea66d6b71dec330"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:05.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462e973ea66d6b71dec332"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:07.000Z"
+  },
+  "Value": 41
+},{
+  "_id": {
+    "$oid": "64462ea03ea66d6b71dec334"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:15.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462ea23ea66d6b71dec336"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:16.000Z"
+  },
+  "Value": 38
+},{
+  "_id": {
+    "$oid": "64462eaa3ea66d6b71dec338"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:26.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462eac3ea66d6b71dec33a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:27.000Z"
+  },
+  "Value": 25
+},{
+  "_id": {
+    "$oid": "64462eb43ea66d6b71dec33c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:36.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462eb63ea66d6b71dec33e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:37.000Z"
+  },
+  "Value": 76
+},{
+  "_id": {
+    "$oid": "64462ebe3ea66d6b71dec340"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:46.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462ec03ea66d6b71dec342"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:47.000Z"
+  },
+  "Value": 71
+},{
+  "_id": {
+    "$oid": "64462ec83ea66d6b71dec344"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:56.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462eca3ea66d6b71dec346"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:24:57.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64462ed33ea66d6b71dec348"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:06.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462ed43ea66d6b71dec34a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:07.000Z"
+  },
+  "Value": 61
+},{
+  "_id": {
+    "$oid": "64462edc3ea66d6b71dec34c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:16.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462edf3ea66d6b71dec34e"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:17.000Z"
+  },
+  "Value": 9
+},{
+  "_id": {
+    "$oid": "64462ee73ea66d6b71dec350"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:26.000Z"
+  },
+  "Value": "không có người"
+},{
+  "_id": {
+    "$oid": "64462ee93ea66d6b71dec352"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:27.000Z"
+  },
+  "Value": 23
+},{
+  "_id": {
+    "$oid": "64462ef13ea66d6b71dec354"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:36.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462ef33ea66d6b71dec356"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:37.000Z"
+  },
+  "Value": 67
+},{
+  "_id": {
+    "$oid": "64462efb3ea66d6b71dec358"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:46.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462efd3ea66d6b71dec35a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:47.000Z"
+  },
+  "Value": 97
+},{
+  "_id": {
+    "$oid": "64462f053ea66d6b71dec35c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:57.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f073ea66d6b71dec35e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:25:57.000Z"
+  },
+  "Value": 28
+},{
+  "_id": {
+    "$oid": "64462f0f3ea66d6b71dec360"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:07.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f113ea66d6b71dec362"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:07.000Z"
+  },
+  "Value": 89
+},{
+  "_id": {
+    "$oid": "64462f193ea66d6b71dec364"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:17.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f1b3ea66d6b71dec366"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:17.000Z"
+  },
+  "Value": 61
+},{
+  "_id": {
+    "$oid": "64462f233ea66d6b71dec368"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:27.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f253ea66d6b71dec36a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:27.000Z"
+  },
+  "Value": 16
+},{
+  "_id": {
+    "$oid": "64462f2e3ea66d6b71dec36c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:37.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f303ea66d6b71dec36e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:38.000Z"
+  },
+  "Value": 61
+},{
+  "_id": {
+    "$oid": "64462f383ea66d6b71dec370"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:48.000Z"
+  },
+  "Value": 94
+},{
+  "_id": {
+    "$oid": "64462f413ea66d6b71dec372"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:56.000Z"
+  },
+  "Value": 27
+},{
+  "_id": {
+    "$oid": "64462f433ea66d6b71dec374"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:26:58.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f4b3ea66d6b71dec376"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:07.000Z"
+  },
+  "Value": 43
+},{
+  "_id": {
+    "$oid": "64462f4d3ea66d6b71dec378"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:08.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f553ea66d6b71dec37a"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:17.000Z"
+  },
+  "Value": 38
+},{
+  "_id": {
+    "$oid": "64462f573ea66d6b71dec37c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:18.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f5f3ea66d6b71dec37e"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:27.000Z"
+  },
+  "Value": 22
+},{
+  "_id": {
+    "$oid": "64462f613ea66d6b71dec380"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:28.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f693ea66d6b71dec382"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:37.000Z"
+  },
+  "Value": 54
+},{
+  "_id": {
+    "$oid": "64462f6b3ea66d6b71dec384"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:38.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f743ea66d6b71dec386"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:47.000Z"
+  },
+  "Value": 84
+},{
+  "_id": {
+    "$oid": "64462f763ea66d6b71dec388"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:48.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f7d3ea66d6b71dec38a"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:56.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "64462f7f3ea66d6b71dec38c"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:27:58.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f873ea66d6b71dec38e"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:06.000Z"
+  },
+  "Value": 46
+},{
+  "_id": {
+    "$oid": "64462f893ea66d6b71dec390"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:08.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f913ea66d6b71dec392"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:16.000Z"
+  },
+  "Value": 65
+},{
+  "_id": {
+    "$oid": "64462f933ea66d6b71dec394"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:19.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462f9b3ea66d6b71dec396"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:27.000Z"
+  },
+  "Value": 27
+},{
+  "_id": {
+    "$oid": "64462f9d3ea66d6b71dec398"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:29.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462fa53ea66d6b71dec39a"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:37.000Z"
+  },
+  "Value": 40
+},{
+  "_id": {
+    "$oid": "64462faf3ea66d6b71dec39c"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:47.000Z"
+  },
+  "Value": 63
+},{
+  "_id": {
+    "$oid": "64462fb23ea66d6b71dec39e"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:49.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462fb93ea66d6b71dec3a0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:57.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "64462fbc3ea66d6b71dec3a2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:28:59.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462fc33ea66d6b71dec3a4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:07.000Z"
+  },
+  "Value": 74
+},{
+  "_id": {
+    "$oid": "64462fc63ea66d6b71dec3a6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:09.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462fcc3ea66d6b71dec3a8"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:16.000Z"
+  },
+  "Value": 61
+},{
+  "_id": {
+    "$oid": "64462fd03ea66d6b71dec3aa"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:19.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462fd73ea66d6b71dec3ac"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:26.000Z"
+  },
+  "Value": 18
+},{
+  "_id": {
+    "$oid": "64462fda3ea66d6b71dec3ae"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:30.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462fe13ea66d6b71dec3b0"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:36.000Z"
+  },
+  "Value": 81
+},{
+  "_id": {
+    "$oid": "64462fe43ea66d6b71dec3b2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:40.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462feb3ea66d6b71dec3b4"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:47.000Z"
+  },
+  "Value": 20
+},{
+  "_id": {
+    "$oid": "64462fee3ea66d6b71dec3b6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:50.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "64462ff53ea66d6b71dec3b8"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:29:57.000Z"
+  },
+  "Value": 29
+},{
+  "_id": {
+    "$oid": "64462ff83ea66d6b71dec3ba"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:00.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644630003ea66d6b71dec3bc"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:07.000Z"
+  },
+  "Value": 63
+},{
+  "_id": {
+    "$oid": "644630023ea66d6b71dec3be"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:10.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644630093ea66d6b71dec3c0"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:16.000Z"
+  },
+  "Value": 39
+},{
+  "_id": {
+    "$oid": "6446300d3ea66d6b71dec3c2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:20.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644630133ea66d6b71dec3c4"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:26.000Z"
+  },
+  "Value": 32
+},{
+  "_id": {
+    "$oid": "644630173ea66d6b71dec3c6"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:30.000Z"
+  },
+  "Value": "Có mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6446301d3ea66d6b71dec3c8"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:36.000Z"
+  },
+  "Value": 18
+},{
+  "_id": {
+    "$oid": "644630213ea66d6b71dec3ca"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:41.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644630273ea66d6b71dec3cc"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:47.000Z"
+  },
+  "Value": 68
+},{
+  "_id": {
+    "$oid": "6446302b3ea66d6b71dec3ce"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:51.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644630313ea66d6b71dec3d0"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:30:57.000Z"
+  },
+  "Value": 14
+},{
+  "_id": {
+    "$oid": "644630353ea66d6b71dec3d2"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:01.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6446303b3ea66d6b71dec3d4"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:07.000Z"
+  },
+  "Value": 35
+},{
+  "_id": {
+    "$oid": "644630443ea66d6b71dec3d6"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:16.000Z"
+  },
+  "Value": 59
+},{
+  "_id": {
+    "$oid": "644630493ea66d6b71dec3d8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:21.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6446304e3ea66d6b71dec3da"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:26.000Z"
+  },
+  "Value": 10
+},{
+  "_id": {
+    "$oid": "644630543ea66d6b71dec3dc"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:31.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644630583ea66d6b71dec3de"
+  },
+  "Sensor": "Humidity",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:36.000Z"
+  },
+  "Value": 61
+},{
+  "_id": {
+    "$oid": "6446305d3ea66d6b71dec3e0"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:41.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "644630633ea66d6b71dec3e2"
+  },
+  "Sensor": "Light",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:46.000Z"
+  },
+  "Value": 92
+},{
+  "_id": {
+    "$oid": "644630673ea66d6b71dec3e4"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:51.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6446306d3ea66d6b71dec3e6"
+  },
+  "Sensor": "Temperature",
+  "Timestamp": {
+    "$date": "2023-04-24T07:31:56.000Z"
+  },
+  "Value": 34
+},{
+  "_id": {
+    "$oid": "644630723ea66d6b71dec3e8"
+  },
+  "Sensor": "Ai",
+  "Timestamp": {
+    "$date": "2023-04-24T07:32:01.000Z"
+  },
+  "Value": "Không mang khẩu trang"
+},{
+  "_id": {
+    "$oid": "6454d50ff7b0e0246c63ef0e"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-04-03T08:42:34.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454d5e9f8f42522782ad2c5"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:09:44.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454da4d65dec4d4120b04d0"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:28:28.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454dbe06ef90b9b59687858"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:35:10.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454dddc2a7cc5cfdff6b71b"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:43:38.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454de4de0d80c9e2df10129"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:45:31.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454df2088998116bfe033ee"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:49:03.000Z"
+  },
+  "Value": "Open"
+},{
+  "_id": {
+    "$oid": "6454df60b8caa9c56cf20cf0"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:50:06.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454df6cb8caa9c56cf20cf2"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:50:19.000Z"
+  },
+  "Value": "Open"
+},{
+  "_id": {
+    "$oid": "6454df8cb8caa9c56cf20cf4"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:50:52.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454df9cb8caa9c56cf20cf6"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:51:07.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454dfa7b8caa9c56cf20cf8"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:51:18.000Z"
+  },
+  "Value": "Open"
+},{
+  "_id": {
+    "$oid": "6454dfbcb8caa9c56cf20cfa"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:51:40.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454dfcbb8caa9c56cf20cfc"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:51:54.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454dfdeb8caa9c56cf20cfe"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:52:13.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454dfe9b8caa9c56cf20d00"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:52:25.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454dff8b8caa9c56cf20d02"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:52:39.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454e005b8caa9c56cf20d04"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:52:53.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454e03452c35a427de70495"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:53:39.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454e03e52c35a427de70497"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:53:49.000Z"
+  },
+  "Value": "Open"
+},{
+  "_id": {
+    "$oid": "6454e05452c35a427de70499"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:54:11.000Z"
+  },
+  "Value": "Close"
+},{
+  "_id": {
+    "$oid": "6454ffc7ae33a19557bd9142"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:54:19.000Z"
+  },
+  "Value": "Open"
+},{
+  "_id": {
+    "$oid": "6454fff5ae33a19557bd9144"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T10:54:19.000Z"
+  },
+  "Value": "Open"
+},{
+  "_id": {
+    "$oid": "645500a84ffb87598cffd61d"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T13:12:07.000Z"
+  },
+  "Value": "1"
+},{
+  "_id": {
+    "$oid": "64550110d4194d4da9e3bf14"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T13:13:50.000Z"
+  },
+  "Value": "0"
+},{
+  "_id": {
+    "$oid": "64550140d4194d4da9e3bf16"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T13:14:39.000Z"
+  },
+  "Value": "1"
+},{
+  "_id": {
+    "$oid": "64550179d4194d4da9e3bf18"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T13:15:37.000Z"
+  },
+  "Value": "0"
+},{
+  "_id": {
+    "$oid": "64550184d4194d4da9e3bf1a"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T13:15:47.000Z"
+  },
+  "Value": "1"
+},{
+  "_id": {
+    "$oid": "6455018bd4194d4da9e3bf1c"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T13:15:55.000Z"
+  },
+  "Value": "0"
+},{
+  "_id": {
+    "$oid": "645501b1d4194d4da9e3bf1e"
+  },
+  "Sensor": "Door",
+  "Timestamp": {
+    "$date": "2023-05-05T13:16:32.000Z"
+  },
+  "Value": "0"
+}]
