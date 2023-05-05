@@ -126,7 +126,7 @@ const HomeScreen = props => {
   );
 };
 const ID_USERNAME = 'huyn02';
-const IO_KEY = 'aio_QPGI26krHvmiarC2s51PuadqMf12';
+const IO_KEY = 'aio_SqTg91maCLWtArGLDrKNRIwZuULH';
 // CONTROL SCREEN
 const Control = props => {
   const [fan, setFAN] = useState(false)
@@ -237,7 +237,10 @@ const Data = props => {
       setTemp(data.temp)
       setHumid(data.humid)
       setLight(data.light)
-      setDoor(data.door)
+      if (data.door == "1"){
+        setDoor("Open")
+      }
+      else setDoor("Close");
     }
     // return () => intervalId; //This is important???
   }, [])
@@ -293,7 +296,10 @@ const OpenDoor = props => {
       setTemp(data.temp)
       setHumid(data.humid)
       setLight(data.light)
-      setDoor(data.door)
+      if (data.door == "1"){
+        setDoor("Open");
+      }
+      else setDoor("Close");
     }
     // return () => intervalId; //This is important???
   }, [])
