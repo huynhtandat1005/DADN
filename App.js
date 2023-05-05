@@ -22,7 +22,6 @@ import { Switch } from 'react-native-gesture-handler';
 // const WebSocket = require('ws')
 const socket = new WebSocket('ws://localhost:3000/ws');
 
-
 // START SCREEN
 const Start = props => {
   const change = () => {
@@ -127,7 +126,7 @@ const HomeScreen = props => {
   );
 };
 const ID_USERNAME = 'huyn02';
-const IO_KEY = 'aio_ODJm46pnsK8WBdBiV2huWRpTqTot';
+const IO_KEY = 'aio_DDhg69zMJVLWup6x8AmCI8GhfFRb';
 // CONTROL SCREEN
 const Control = props => {
   const [fan, setFAN] = useState(false)
@@ -145,11 +144,11 @@ const Control = props => {
         lightsignal = 1
       }
       else lightsignal = 0
-      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button1/data', {
+      const response = await fetch(`https://io.adafruit.com/api/v2/${ID_USERNAME}/feeds/button1/data`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'X-AIO-Key': 'aio_sHsy10VZwfSyQqV15wDXUOVsvIEW'
+          'X-AIO-Key': IO_KEY
         },
         body: JSON.stringify({ value: lightsignal  })
       })
@@ -166,11 +165,11 @@ const Control = props => {
         fansignal = 1
       }
       else fansignal = 0
-      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/button3/data', {
+      const response = await fetch(`https://io.adafruit.com/api/v2/${ID_USERNAME}/feeds/button3/data`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'X-AIO-Key': 'aio_sHsy10VZwfSyQqV15wDXUOVsvIEW'
+          'X-AIO-Key': IO_KEY
         },
         body: JSON.stringify({ value: fansignal  })
       })
@@ -290,11 +289,11 @@ const OpenDoor = props => {
   const sendSignalDoor = async () => {
     try {
       let doorsignal = "4";
-      const response = await fetch('https://io.adafruit.com/api/v2/huyn02/feeds/receive/data', {
+      const response = await fetch(`https://io.adafruit.com/api/v2/${ID_USERNAME}/feeds/receive/data`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'X-AIO-Key': 'aio_sHsy10VZwfSyQqV15wDXUOVsvIEW'
+          'X-AIO-Key': IO_KEY
         },
         body: JSON.stringify({ value: doorsignal  })
       })
@@ -317,11 +316,7 @@ const OpenDoor = props => {
           {"   "}CHECK BY FACE
         </Text>
       </TouchableOpacity>
-      {/* <Button style ={styles.button} onPress={sendSignalDoor}>
-        <Text style = {styles.button1}>
-          {"   "}CHECK BY FACE
-        </Text>
-      </Button> */}
+
     </View>
   );
 };
