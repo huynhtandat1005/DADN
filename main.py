@@ -4,7 +4,7 @@ import random
 from Adafruit_IO import MQTTClient
 import pandas as pd
 # from uart import *
-# from simple_ai import *
+from simple_ai import *
 import pymongo 
 
 AIO_FEED_IDs = ["button1","button2","receive"]
@@ -18,6 +18,7 @@ def readData(feed_key, sensor_name):
     collection = db["sensors"]
     data = {"Sensor":sensor_name,"Timestamp":feed_data['created_at'][0],"Value":float(feed_data['value'][0])}
     collection.insert_one(data)
+
 
 def connected(client):
     print("Ket noi thanh cong ...")
@@ -40,6 +41,10 @@ def message(client , feed_id , payload):
             readData("cambien2", "Light")
         if payload == "3":
             readData("cambien3", "Humidity")
+        if payload == "4":
+            ai_result = image_detector()
+            print("AI Output:", ai_result)
+            client.publish("ai", ai_result)
 
 client = MQTTClient(AIO_USERNAME , AIO_KEY)
 client.on_connect = connected
@@ -49,7 +54,8 @@ client.on_subscribe = subscribe
 client.connect()
 client.loop_background()
 counter = 10
-
+# counter_ai = 5
+# sensor_type = 0
 while True:
     pass
         
